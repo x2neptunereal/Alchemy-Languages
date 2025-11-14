@@ -1,0 +1,219 @@
+{
+    "language": "EN",
+    "translator": "none",
+    "data": {
+        "general": {
+            "fishing": {
+                "fishing location": "[ 🛥️ ] Fishing Location",
+                "shake method": "[ 🔁 ] Shake Method",
+                "reel method": "[ ⏩ ] Reel Method",
+                "auto fishing": "Auto Fishing",
+                "perfect catch": "Perfect Catch",
+                "drop bobber": "Drop Bobber"
+            },
+            "others": {
+                "spear exploit": "Spear Exploit",
+                "insect farming": "Insects Farming",
+                "open hold item": "Open Hold Item"
+            },
+            "premium": {
+                "remove animation": "Remove Animation"
+            },
+            "change rod": {
+                "default rod": "[ 1️⃣ ] Default Rod",
+                "rod for events": "[ 2️⃣ ] Rod For Events",
+                "change rod fishing": "Change Rod Fishing"
+            },
+            "events": {
+                "select events": "[ 🦈 ] Select Events ( Multiple )",
+                "text event 1": "🟢 <font color='rgb(0, 255, 85)'>Also Including Ancient</font>",
+                "enabled fishing events": "Enabled Fishing Events",
+                "text event 2": "➡️ <font color='rgb(0, 204, 255)'>Use with Auto Fishing</font>",
+                "y multipy": "[ ⏬ ] Y Multiply"
+            },
+            "sell": {
+                "sell delay": "[ 💸 ] Sell Delay",
+                "auto sell all fish": "Auto Sell All Fish",
+                "auto sell hold fish": "Auto Sell Hold Fish",
+                "sell all fish": "[ 💵 ] Sell All Fish",
+                "sell hold fish": "[ 💵 ] Sell Hold Fish"
+            },
+            "favourite": {
+                "selected fish": "[ 🐟 ] Select Fish",
+                "add fish into list": "Add Fish into List",
+                "removed fish from list": "Remove Fish from List",
+                "favourite delay": "[ ⭐ ] Favourite Delay ( % )",
+                "auto favourite fish": "Auto Favourite Fish",
+                "auto favourite eggs": "Auto Favourite Eggs",
+
+                "selected mutation": "[ ✨ ] Select Mutation",
+                "favourite delay 2": "[ ⭐ ] Favourite Delay ( % )",
+                "auto favourite mutation": "Auto Favourite Mutation"
+            },
+            "additional": {
+                "shake multiply": "[ ⏭️ ] Shake Multiply",
+                "catch fish percent": "[ 🍔 ] Catch Fish Percent",
+                "perfect catch percent": "[ 🍕 ] Perfect Catch Percent",
+                "custom fishing delay": "[ 🥓 ] Custom Fishing Delay",
+                "enable custom fishing": "Enable Custom Fishing",
+                "enable fishing debug": "Enable Fishing Debug",
+                "auto equip rod": "Auto Equip Rod",
+                "auto cast": "Auto Cast",
+                "auto shake": "Auto Shake",
+                "auto complete reel": "Auto Complete Reel",
+                "auto nuke minigames": "Auto Nuke Minigames"
+            },
+            "unlock": {
+                "unlock all location": "[ 🔓 ] Unlock All Location",
+                "redeem all codes": "[ 🔓 ] Redeem All Codes"
+            },
+            "crab cage": {
+                "auto collect crab cage": "Auto Collect Crab Cage",
+                "auto tp to crab cage": "Auto TP to Crab Cage"
+            },
+            "bait": {
+                "bait selected": "[ 🎣 ] Bait Select",
+                "bait for event": "[ 🎣 ] Bait For Event",
+                "auto equip bait": "Auto Equip Bait",
+                "auto change bait": "Auto Change Bait"
+            }
+        },
+        "automatic": {
+            "totem": {
+                "selected totem": "[ ✨ ] Selected Totem",
+                "use totem": "Use Totem",
+                "activate delay": "[ ⌛ ] Activate Delay",
+                "auto use totem": "Auto Use Totem",
+                "auto use totem at day": "Auto Use Totem At Day",
+                "auto use totem at night": "Auto Use Totem At Night",
+                "auto active aurora": "Auto Active Aurora",
+                "auto active eclipse": "Auto Active Eclipse",
+                "selected events 2": "[ 🦈 ] Select Events",
+                "auto spawn event": "Auto Spawn Event",
+                "selected events 3": "[ 🐳 ] Select Events 2",
+                "auto spawn event 2": "Auto Spawn Event 2",
+                "auto ancient kraken": "Auto Ancient Kraken"
+            },
+            "drill": {
+                "auto drill lava crystals": "Auto Drill Lava Crystals",
+                "auto drill ice crystals": "Auto Drill Ice Crystals"
+            },
+            "enchant": {
+                "selected enchant": "[ ⚡ ] Selected Enchant",
+                "selected relic": "[ 🍥 ] Selected Relic",
+                "auto enchant": "Auto Enchant"
+            },
+            "appraiser": {
+                "selected mutation 2": "[ ✨ ] Select Mutation",
+                "selected fish 2": "[ 🐟 ] Select Fish",
+                "auto appraise selected": "Auto Appraise Selected",
+                "auto appraise hold": "Auto Appraise Hold"
+            },
+            "lantern": {
+                "auto buy lantern": "Auto Buy Lantern"
+            },
+            "treasure": {
+                "auto treasure": "Auto Treasure"
+            },
+            "aquarium": {
+                "equip best fish": "[ 🐳 ] Equip Best Fish",
+                "claim delay": "[ 🐬 ] Claim Delay",
+                "auto claim aquarium": "Auto Claim Aquarium",
+                "feed delay": "[ 🐠 ] Feed Delay",
+                "auto feed aquarium": "Auto Feed Aquarium"
+            }
+        },
+        "teleport": {
+            "island": {
+                "island location": "[ 🏝️ ] Island Location",
+                "teleport to select island": "Teleport to Select Island"
+            },
+            "npc": {
+                "npc location": "[ 💬 ] NPC Location",
+                "teleport to select npc": "Teleport to Select NPC"
+            },
+            "custom": {
+                "position xyz": "[ 🗺️ ] Position ( x,y,z )",
+                "teleport to position": "Teleport to Position",
+                "copy current position": "Copy Current Position",
+                "copy advanced position": "Copy Advanced Position"
+            }
+        },
+        "shop": {
+            "totem": {
+                "totem selected": "[ ✨ ] Totems Select",
+                "totem amount": "[ ⏏️ ] Totems Amount",
+                "buy selected totem": "Buy Select Totems"
+            },
+            "rod": {
+                "rod selected": "[ 🚩 ] Rod Select",
+                "buy selected rod": "Buy Select Rod"
+            },
+            "items": {
+                "item selected": "[ 🧪 ] Items Select",
+                "item amount": "[ ⏏️ ] Items Amount",
+                "buy selected item": "Buy Select Items"
+            },
+            "merlin": {
+                "merlin selected": "[ 🧩 ] Merlin Select",
+                "selected amount": "[ ⏏️ ] Select Amount",
+                "buy selected item 2": "Buy Selected Items"
+            }
+        },
+        "misc": {
+            "visual": {
+                "open black market": "[ 🎩 ] Open Black Market",
+                "fps boost": "[ ⚠️ ] FPS Boost",
+                "clear terrain": "[ ⚠️ ] Clear Terrain",
+                "remove lava": "[ 🌋 ] Remove Lava",
+                "hide inventory": "Hide Inventory",
+                "hide fish notify": "Hide Fish Notify",
+                "protect player data": "Protect Player Data",
+                "protect identity": "Protect Identity",
+                "protect fish caught": "Protect Fish Caught",
+                "esp island": "ESP Island",
+                "esp fish": "ESP Fish",
+                "inf oxygen water": "Infinity Oxygen Water",
+                "inf oxygen peak": "Infinity Oxygen Peak",
+                "disable temperature cold": "Disable Temperature Cold",
+                "disable temperature heat": "Disable Temperature Heat"
+            },
+            "effect": {
+                "remove all fog": "[ ⚠️ ] Remove All Fog",
+                "remove cutscene": "Remove Cutscene",
+                "remove effect": "Remove Effect"
+            },
+            "misc": {
+                "auto delete fish": "Auto Delete Fish",
+                "walk on water": "Walk On Water",
+                "enable fishing underwater": "Enable Fishing Underwater",
+                "white screen": "White Screen",
+                "black screen": "Black Screen",
+                "disable afk title": "Disable AFK Title"
+            },
+            "skin": {
+                "selected rod skin": "Select Rod Skin",
+                "apply selected skin": "[ ✨ ] Apply Selected Skin"
+            },
+            "player": {
+                "walk speed": "[ 🦶 ] Walk Speed",
+                "enable walk speed": "Enable Walk Speed",
+                "jump power": "[ 🔼 ] Jump Power",
+                "enable jump power": "Enable Jump Power"
+            },
+            "server": {
+                "server hop": "[ ⬆️ ] Server Hop",
+                "server hop low": "[ ⬆️ ] Server Hop Low",
+                "server job id": "[ 📩 ] Server Job ID",
+                "join server": "Join Server",
+                "copy job id": "Copy Jop ID"
+            },
+            "webhook": {
+                "webhook url": "[ 📌 ] Webhook Url",
+                "enable webhook": "Enable Webhook",
+                "show userdata": "Show Userdata",
+                "show server jobid": "Show Server JobId"
+            }
+        }
+    }
+}
