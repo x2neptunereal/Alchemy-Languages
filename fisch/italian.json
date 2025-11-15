@@ -1,0 +1,219 @@
+{
+    "language": "IT",
+    "translator": "spikkio_",
+    "data": {
+        "generale": {
+            "pesca": {
+                "fishing location": "[ 🛥️ ] Zona di Pesca",
+                "shake method": "[ 🔁 ] Metodo di Scuotimento",
+                "reel method": "[ ⏩ ]Metodo di Pesca ",
+                "auto fishing": "Auto Pesca",
+                "perfect catch": "Cattura Perfetta",
+                "drop bobber": "Lascia Galleggiante"
+            },
+            "altri": {
+                "spear exploit": "Exploit Della Lancia",
+                "insect farming": "Farm Instetti",
+                "open hold item": "Usa Oggetto In Mano"
+            },
+            "premium": {
+                "remove animation": "Rimuovi Animazione"
+            },
+            "cambia canna": {
+                "default rod": "[ 1️⃣ ] Canna Base",
+                "rod for events": "[ 2️⃣ ] Canna Per Eventi",
+                "change rod fishing": "Cambia Canne Per La Pesca"
+            },
+            "eventi": {
+                "select events": "[ 🦈 ] Seleziona Eventi(Multipli)",
+                "text event 1": "🟢 <font color='rgb(0, 255, 85)'>Includi Pesci Antichi</font>",
+                "enabled fishing events": "Abilita Eventi Di Pesca",
+                "text event 2": "➡️ <font color='rgb(0, 204, 255)'>Usa Con Pesca Automatica</font>",
+                "y multipy": "[ ⏬ ] Moltiplica Y"
+            },
+            "vendi": {
+                "sell delay": "[ 💸 ] Ritardo Di Vendita",
+                "auto sell all fish": "Auto Vendi Tutti I Pesci",
+                "auto sell hold fish": "Auto Vendi Pesci In Mano",
+                "sell all fish": "[ 💵 ] Vendi Tutti I Pesci",
+                "sell hold fish": "[ 💵 ] Vendi Pesci In Mano"
+            },
+            "preferisci": {
+                "selected fish": "[ 🐟 ] Seleziona Pesce",
+                "add fish into list": "Aggiungi Pesce Alla Lista",
+                "removed fish from list": "Rimuovi Pesce Dalla Lista",
+                "favourite delay": "[ ⭐ ] Ritardo Di Preferiti ( % )",
+                "auto favourite fish": "Auto Preferisci Pesci",
+                "auto favourite eggs": "Auto Preferisci Uova",
+
+                "selected mutation": "[ ✨ ] Seleziona Mutazione",
+                "favourite delay 2": "[ ⭐ ] Ritardo Di Preferiti ( % )",
+                "auto favourite mutation": "Auto Preferisci Mutazione"
+            },
+            "aggiuntivo": {
+                "shake multiply": "[ ⏭️ ] Moltiplica Scuotimento",
+                "catch fish percent": "[ 🍔 ] Percentuale Di Cattura Pesce",
+                "perfect catch percent": "[ 🍕 ] Percentuale Di Cattura Perfetta",
+                "custom fishing delay": "[ 🥓 ] Ritardo Di Pesca Personalizzato",
+                "enable custom fishing": "Abilita Pesca Personalizzata",
+                "enable fishing debug": "Abilita Debug Di Pesca",
+                "auto equip rod": "Auto Equipaggia Canna",
+                "auto cast": "Auto Lancia Canna",
+                "auto shake": "Auto Scuoti",
+                "auto complete reel": "Auto Completa Reel",
+                "auto nuke minigames": "Auto Minigiochi Della Bomba"
+            },
+            "sblocca": {
+                "unlock all location": "[ 🔓 ] Sblocca Tutte Le Location",
+                "redeem all codes": "[ 🔓 ] Riscuoti Tutti I Codici"
+            },
+            "gabbie per granchi": {
+                "auto collect crab cage": "Auto Prendi Gabbie Per Granchi",
+                "auto tp to crab cage": "Auto TP Alle Gabbie Per Granchi"
+            },
+            "esche": {
+                "bait selected": "[ 🎣 ] Seleziona Esca",
+                "bait for event": "[ 🎣 ] Esca Per Eventi",
+                "auto equip bait": "Auto Equipaggia Esca",
+                "auto change bait": "Auto Cambia Esca"
+            }
+        },
+        "automatico": {
+            "totem": {
+                "selected totem": "[ ✨ ] Seleziona Totem",
+                "use totem": "Usa Totem",
+                "activate delay": "[ ⌛ ] Attiva Ritardo",
+                "auto use totem": "Auto Usa Totem",
+                "auto use totem at day": "Auto Usa Totem Di Giorno",
+                "auto use totem at night": "Auto Usa Totem Di Notte",
+                "auto active aurora": "Auto Attiva Aurora",
+                "auto active eclipse": "Auto Attiva Eclissi",
+                "selected events 2": "[ 🦈 ] Seleziona Eventi",
+                "auto spawn event": "Auto Genera Eventi",
+                "selected events 3": "[ 🐳 ] Seleziona Eventi 2",
+                "auto spawn event 2": "Auto Genera Eventi 2",
+                "auto ancient kraken": "Auto Kraken Antico"
+            },
+            "trivella": {
+                "auto drill lava crystals": "Auto Trivella Cristalli Di Lava",
+                "auto drill ice crystals": "Auto Trivella Cristalli Di Ghiaccio"
+            },
+            "incantesimi": {
+                "selected enchant": "[ ⚡ ] Seleziona Incantesimo",
+                "selected relic": "[ 🍥 ] Seleziona Reliquia",
+                "auto enchant": "Auto Incanta"
+            },
+            "valutatore": {
+                "selected mutation 2": "[ ✨ ] Seleziona Mutazione",
+                "selected fish 2": "[ 🐟 ] Seleziona Pesce",
+                "auto appraise selected": "Auto Stima Pesci Selezionati",
+                "auto appraise hold": "Auto Stima Pesci In Mano"
+            },
+            "lanterna": {
+                "auto buy lantern": "Auto Compra Lanterna"
+            },
+            "tesoro": {
+                "auto treasure": "Auto Tesoro"
+            },
+            "acquario": {
+                "equip best fish": "[ 🐳 ] Equipaggia Migliori Pesci",
+                "claim delay": "[ 🐬 ] Ritardo Di Riscatto",
+                "auto claim aquarium": "Auto Riscatta Acquario",
+                "feed delay": "[ 🐠 ] Ritardo Di Nutrimento",
+                "auto feed aquarium": "Auto Nutri Acquario"
+            }
+        },
+        "teletrasporto": {
+            "isola": {
+                "island location": "[ 🏝️ ] Seleziona Isola",
+                "teleport to select island": "TP All'Isola Selezionata"
+            },
+            "npc": {
+                "npc location": "[ 💬 ] Seleziona NPC",
+                "teleport to select npc": "TP All'NPC Selezionato"
+            },
+            "personalizzato": {
+                "position xyz": "[ 🗺️ ] Posizione ( x,y,z )",
+                "teleport to position": "TP Alla Posizione",
+                "copy current position": "Copia Attuale Posizione",
+                "copy advanced position": "Copy Posizione Avanzata"
+            }
+        },
+        "negozio": {
+            "totem": {
+                "totem selected": "[ ✨ ] Seleziona Totem",
+                "totem amount": "[ ⏏️ ] Quantità Di Totem",
+                "buy selected totem": "Compra Totem Selezionati"
+            },
+            "canna": {
+                "rod selected": "[ 🚩 ] Seleziona Canna",
+                "buy selected rod": "Compra Canna Selezionata"
+            },
+            "oggetti": {
+                "item selected": "[ 🧪 ] Seleziona Oggetti",
+                "item amount": "[ ⏏️ ] Quantità Di Oggetti",
+                "buy selected item": "Compra Oggetti Selezionati"
+            },
+            "merlino": {
+                "merlin selected": "[ 🧩 ] Seleziona Merlino",
+                "selected amount": "[ ⏏️ ] Seleziona Quantità",
+                "buy selected item 2": "Compra Oggetti Selezionati"
+            }
+        },
+        "varie": {
+            "visuale": {
+                "open black market": "[ 🎩 ] Apri Mercato Nero",
+                "fps boost": "[ ⚠️ ] Boost Di FPS",
+                "clear terrain": "[ ⚠️ ] Pulisci Terreno",
+                "remove lava": "[ 🌋 ] Rimuovi Lava",
+                "hide inventory": "Nascondi Inventario",
+                "hide fish notify": "Nascondi Notifiche Pesci",
+                "protect player data": "Proteggi Dati Giocatore",
+                "protect identity": "Proteggi Identità",
+                "protect fish caught": "Proteggi Pesce Catturato",
+                "esp island": "ESP Delle Isole",
+                "esp fish": "ESP Dei Pesci",
+                "inf oxygen water": "Ossigeno Infinito In Acqua",
+                "inf oxygen peak": "Ossigeno Infinito In Montagna",
+                "disable temperature cold": "Disabilita Temperatura Fredda",
+                "disable temperature heat": "Disabilita Temperatura Calda"
+            },
+            "effetti": {
+                "remove all fog": "[ ⚠️ ] Rimuovi Tutta La Nebbia",
+                "remove cutscene": "Rimuovi I Filmati",
+                "remove effect": "Remuovi Gli Effetti"
+            },
+            "varie": {
+                "auto delete fish": "Auto Elimina Pesci",
+                "walk on water": "Cammina Sull'Acqua",
+                "enable fishing underwater": "Abilita Pesca Sottomarina",
+                "white screen": "Schermo Bianco",
+                "black screen": "Schermo Nero",
+                "disable afk title": "Disabilita Titolo AFK"
+            },
+            "skin": {
+                "selected rod skin": "Seleziona Skin Canna",
+                "apply selected skin": "[ ✨ ] Applica Skin Selezionata"
+            },
+            "giocatore": {
+                "walk speed": "[ 🦶 ] Velocità Di Cammino",
+                "enable walk speed": "Abilita Velocità Di Cammino",
+                "jump power": "[ 🔼 ] Potenza Di Salto",
+                "enable jump power": "Abilita Potenza Di Salto"
+            },
+            "server": {
+                "server hop": "[ ⬆️ ] Cambia Server",
+                "server hop low": "[ ⬆️ ] Cambia Server(Pochi)",
+                "server job id": "[ 📩 ] ID Del Server",
+                "join server": "Unisciti Al Server",
+                "copy job id": "Copia ID Del Server"
+            },
+            "webhook": {
+                "webhook url": "[ 📌 ] URL Del Webhook",
+                "enable webhook": "Abilita Webhook",
+                "show userdata": "Mostra Dati Utente",
+                "show server jobid": "Mostra ID Server"
+            }
+        }
+    }
+}
