@@ -18,10 +18,10 @@
             },
             "premium": {
                 "remove animation": "Rimuovi Animazione",
-                "unequip rod check": "[ 🔄️ ] Unequip Rod Check",
-                "hook delay": "[ ✨ ] Hook Delay",
-                "cast delay": "[ ⚓ ] Cast Delay",
-                "insta catch": "Insta-Catch"
+                "unequip rod check": "[ 🔄️ ] Controllo Canna Non Equipaggiata",
+                "hook delay": "[ ✨ ] Ritardo Gancio",
+                "cast delay": "[ ⚓ ] Ritardo Pesca",
+                "insta catch": "Cattura Istantanea"
             },
             "cambia canna": {
                 "default rod": "[ 1️⃣ ] Canna Base",
@@ -126,9 +126,9 @@
                 "feed delay": "[ 🐠 ] Ritardo Di Nutrimento",
                 "auto feed aquarium": "Auto Nutri Acquario"
             },
-            "angler": {
-                "selected quest": "[ 📒 ] Select Quest",
-                "auto angler quest": "Auto Angler Quest"
+            "pescatore": {
+                "selected quest": "[ 📒 ] Seleziona Missione",
+                "auto angler quest": "Auto Missione Del Pescatore"
             }
         },
         "teletrasporto": {
