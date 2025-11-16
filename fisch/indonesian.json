@@ -1,0 +1,226 @@
+{
+    "language": "ID",
+    "translator": "beeb",
+    "data": {
+        "general": {
+            "fishing": {
+                "fishing location": "[ 🛥️ ] Lokasi Memancing",
+                "shake method": "[ 🔁 ] Metode Goyangan",
+                "reel method": "[ ⏩ ] Metode Menarik Pancingan",
+                "auto fishing": "Memancing Otomatis",
+                "perfect catch": "Tangkapan Sempurna",
+                "drop bobber": "Pelampung Turun"
+            },
+            "others": {
+                "spear exploit": "Eksploitasi Tombak",
+                "insect farming": "Pertanian Serangga",
+                "open hold item": "Membuka Item yang Dipegang"
+            },
+            "premium": {
+                "remove animation": "Hilangkan Animasi",
+                "unequip rod check": "[ 🔄️ ] Mengawasi Joran Pancing yang Dilepas",
+                "hook delay": "[ ✨ ] Jeda Pancing",
+                "cast delay": "[ ⚓ ] Jeda Lempar Alat Mancing",
+                "insta catch": "Tangkap Instan"
+            },
+            "change rod": {
+                "default rod": "[ 1️⃣ ] Joran Standar",
+                "rod for events": "[ 2️⃣ ] Joran untuk Event Tertentu",
+                "change rod fishing": "Ganti Joran Memancing"
+            },
+            "events": {
+                "select events": "[ 🦈 ] Memilih Event( Multiple )",
+                "text event 1": "🟢 <font color='rgb(0, 255, 85)'>Juga termasuk yang kuno</font>",
+                "enabled fishing events": "Nyalakan Event Memancing",
+                "text event 2": "➡️ <font color='rgb(0, 204, 255)'>Gunakan otomatis memancing</font>",
+                "y multipy": "[ ⏬ ] Y Dikalikan"
+            },
+            "sell": {
+                "sell delay": "[ 💸 ] Jeda untuk Menjual",
+                "auto sell all fish": "Otomatis Menjual Semua Ikan",
+                "auto sell hold fish": "Otomatis Menjual Ikan yang Dipegang",
+                "sell all fish": "[ 💵 ] Jual Semua Ikan",
+                "sell hold fish": "[ 💵 ] Jual Ikan yang Dipegang"
+            },
+            "favourite": {
+                "selected fish": "[ 🐟 ] Pilih Ikan",
+                "add fish into list": "Menambahkan Ikan ke Daftar",
+                "removed fish from list": "Hilangkan Ikan dari Daftar",
+                "favourite delay": "[ ⭐ ] Jeda untuk Menyukai Ikan( % )",
+                "auto favourite fish": "Otomatis Menyukai Ikan",
+                "auto favourite eggs": "Otomatis Menyukai Telur",
+                "selected mutation": "[ ✨ ] Pilih Mutasi",
+                "favourite delay 2": "[ ⭐ ] Jeda untuk Menyukai Mutasi ( % )",
+                "auto favourite mutation": "Otomatis Menyukai Mutasi"
+            },
+            "additional": {
+                "shake multiply": "[ ⏭️ ] Goyangan Dikalikan",
+                "catch fish percent": "[ 🍔 ] Persen untuk Menangkap Ikan",
+                "perfect catch percent": "[ 🍕 ] Persen untuk Menangkap Ikan Sempurna ",
+                "custom fishing delay": "[ 🥓 ] Jeda Memancing Kustom ",
+                "enable custom fishing": "Aktifkan Memancing Kustom",
+                "enable fishing debug": "Aktifkan Debug Memancing",
+                "auto equip rod": "Otomatis Pasang Joran",
+                "auto cast": "Otomatis Lempar Pancing",
+                "auto shake": "Otomatis Goyang",
+                "auto complete reel": "Otomatis Selesaikan Tarikan",
+                "auto nuke minigames": "Otomatis Lewati Minigames"
+            },
+            "unlock": {
+                "unlock all location": "[ 🔓 ] Buka Semua Lokasi",
+                "redeem all codes": "[ 🔓 ] Tukar Semua Kode"
+            },
+            "crab cage": {
+                "auto collect crab cage": "Otomatis Ambil Jaring Kepiting",
+                "auto tp to crab cage": "Otomatis TP ke Jaring Kepiting"
+            },
+            "bait": {
+                "bait selected": "[ 🎣 ] Umpan Dipilih",
+                "bait for event": "[ 🎣 ] Umpan Untuk Event",
+                "auto equip bait": "Otomatis Pasang Umpan",
+                "auto change bait": "Otomatis Ganti Umpan"
+            }
+        },
+        "automatic": {
+            "totem": {
+                "selected totem": "[ ✨ ] Totem yang Dipilih",
+                "use totem": "Gunakan Totem",
+                "activate delay": "[ ⌛ ] Jeda Aktivasi",
+                "auto use totem": "Otomatis Gunakan Totem",
+                "auto use totem at day": "Otomatis Gunakan Totem di Siang Hari",
+                "auto use totem at night": "Otomatis Gunakan Totem di Malam Hari",
+                "auto active aurora": "Otomatis Aktifkan Aurora",
+                "auto active eclipse": "Otomatis Aktifkan Gerhana",
+                "selected events 2": "[ 🦈 ] Pilih Event",
+                "auto spawn event": "Otomatis Munculkan Event",
+                "selected events 3": "[ 🐳 ] Pilih Event 2",
+                "auto spawn event 2": "Otomatis Munculkan Event 2",
+                "auto ancient kraken": "Otomatis Kraken Kuno"
+            },
+            "drill": {
+                "auto drill lava crystals": "Otomatis Bor Kristal Lava",
+                "auto drill ice crystals": "Otomatis Bor Kristal Es"
+            },
+            "enchant": {
+                "selected enchant": "[ ⚡ ] Enchant yang Dipilih",
+                "selected relic": "[ 🍥 ] Relik yang Dipilih",
+                "auto enchant": "Otomatis Enchant"
+            },
+            "appraiser": {
+                "selected mutation 2": "[ ✨ ] Pilih Mutasi",
+                "selected fish 2": "[ 🐟 ] Pilih Ikan",
+                "auto appraise selected": "Otomatis Taksir yang Dipilih",
+                "auto appraise hold": "Otomatis Taksir yang Dipegang"
+            },
+            "lantern": {
+                "auto buy lantern": "Otomatis Beli Lentera"
+            },
+            "treasure": {
+                "auto treasure": "Otomatis Harta Karun"
+            },
+            "aquarium": {
+                "equip best fish": "[ 🐳 ] Pasang Ikan Terbaik",
+                "claim delay": "[ 🐬 ] Jeda Klaim",
+                "auto claim aquarium": "Otomatis Klaim Akuarium",
+                "feed delay": "[ 🐠 ] Jeda Memberi Makan",
+                "auto feed aquarium": "Otomatis Beri Makan Akuarium"
+            },
+            "angler": {
+                "selected quest": "[ 📒 ] Pilih Quest",
+                "auto angler quest": "Otomatis Quest Angler"
+            }
+        },
+        "teleport": {
+            "island": {
+                "island location": "[ 🏝️ ] Lokasi Pulau",
+                "teleport to select island": "Teleport ke Pulau yang Dipilih"
+            },
+            "npc": {
+                "npc location": "[ 💬 ] Lokasi NPC",
+                "teleport to select npc": "Teleport ke NPC yang Dipilih"
+            },
+            "custom": {
+                "position xyz": "[ 🗺️ ] Posisi ( x,y,z )",
+                "teleport to position": "Teleport ke Posisi",
+                "copy current position": "Salin Posisi Saat Ini",
+                "copy advanced position": "Salin Posisi Lanjutan"
+            }
+        },
+        "shop": {
+            "totem": {
+                "totem selected": "[ ✨ ] Pilih Totem",
+                "totem amount": "[ ⏏️ ] Jumlah Totem",
+                "buy selected totem": "Beli Totem yang Dipilih"
+            },
+            "rod": {
+                "rod selected": "[ 🚩 ] Pilih Joran",
+                "buy selected rod": "Beli Joran yang Dipilih"
+            },
+            "items": {
+                "item selected": "[ 🧪 ] Pilih Item",
+                "item amount": "[ ⏏️ ] Jumlah Item",
+                "buy selected item": "Beli Item yang Dipilih"
+            },
+            "merlin": {
+                "merlin selected": "[ 🧩 ] Pilih Merlin",
+                "selected amount": "[ ⏏️ ] Pilih Jumlah",
+                "buy selected item 2": "Beli Item yang Dipilih"
+            }
+        },
+        "misc": {
+            "visual": {
+                "open black market": "[ 🎩 ] Buka Pasar Gelap",
+                "fps boost": "[ ⚠️ ] Peningkatan FPS",
+                "clear terrain": "[ ⚠️ ] Bersihkan Medan",
+                "remove lava": "[ 🌋 ] Hapus Lava",
+                "hide inventory": "Sembunyikan Inventaris",
+                "hide fish notify": "Sembunyikan Notifikasi Ikan",
+                "protect player data": "Lindungi Data Pemain",
+                "protect identity": "Lindungi Identitas",
+                "protect fish caught": "Lindungi Ikan yang Tertangkap",
+                "esp island": "ESP Pulau",
+                "esp fish": "ESP Ikan",
+                "inf oxygen water": "Oksigen Tak Terbatas di Air",
+                "inf oxygen peak": "Oksigen Tak Terbatas di Puncak",
+                "disable temperature cold": "Nonaktifkan Suhu Dingin",
+                "disable temperature heat": "Nonaktifkan Suhu Panas"
+            },
+            "effect": {
+                "remove all fog": "[ ⚠️ ] Hapus Semua Kabut",
+                "remove cutscene": "Hapus Cutscene",
+                "remove effect": "Hapus Efek"
+            },
+            "misc": {
+                "auto delete fish": "Otomatis Hapus Ikan",
+                "walk on water": "Berjalan di Atas Air",
+                "enable fishing underwater": "Aktifkan Memancing di Bawah Air",
+                "white screen": "Layar Putih",
+                "black screen": "Layar Hitam",
+                "disable afk title": "Nonaktifkan Judul AFK"
+            },
+            "skin": {
+                "selected rod skin": "Pilih Skin Joran",
+                "apply selected skin": "[ ✨ ] Terapkan Skin yang Dipilih"
+            },
+            "player": {
+                "walk speed": "[ 🦶 ] Kecepatan Berjalan",
+                "enable walk speed": "Aktifkan Kecepatan Berjalan",
+                "jump power": "[ 🔼 ] Kekuatan Melompat",
+                "enable jump power": "Aktifkan Kekuatan Melompat"
+            },
+            "server": {
+                "server hop": "[ ⬆️ ] Pindah Server",
+                "server hop low": "[ ⬆️ ] Pindah Server Rendah",
+                "server job id": "[ 📩 ] ID Tugas Server",
+                "join server": "Gabung Server",
+                "copy job id": "Salin ID Tugas"
+            },
+            "webhook": {
+                "webhook url": "[ 📌 ] URL Webhook",
+                "enable webhook": "Aktifkan Webhook",
+                "show userdata": "Tampilkan Data Pengguna",
+                "show server jobid": "Tampilkan ID Tugas Server"
+            }
+        }
+    }
+}
