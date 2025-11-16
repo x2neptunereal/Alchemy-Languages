@@ -17,7 +17,11 @@
                 "open hold item": "Open Hold Item"
             },
             "premium": {
-                "remove animation": "Remove Animation"
+                "remove animation": "Remove Animation",
+                "unequip rod check": "[ 🔄️ ] Unequip Rod Check",
+                "hook delay": "[ ✨ ] Hook Delay",
+                "cast delay": "[ ⚓ ] Cast Delay",
+                "insta catch": "Insta-Catch"
             },
             "change rod": {
                 "default rod": "[ 1️⃣ ] Default Rod",
@@ -121,6 +125,10 @@
                 "auto claim aquarium": "Auto Claim Aquarium",
                 "feed delay": "[ 🐠 ] Feed Delay",
                 "auto feed aquarium": "Auto Feed Aquarium"
+            },
+            "angler": {
+                "selected quest": "[ 📒 ] Select Quest",
+                "auto angler quest": "Auto Angler Quest"
             }
         },
         "teleport": {
