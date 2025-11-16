@@ -17,7 +17,11 @@
                 "open hold item": "Открыть предмет в руках"
             },
             "premium": {
-                "remove animation": "Убрать анимации"
+                "remove animation": "Убрать анимации",
+                "unequip rod check": "[ 🔄️ ] Unequip Rod Check",
+                "hook delay": "[ ✨ ] Hook Delay",
+                "cast delay": "[ ⚓ ] Cast Delay",
+                "insta catch": "Insta-Catch"
             },
             "change rod": {
                 "default rod": "[ 1️⃣ ] Стандартная удочка",
@@ -121,6 +125,10 @@
                 "auto claim aquarium": "Авто-получение сбор аквариума",
                 "feed delay": "[ 🐠 ] Задержка кормления",
                 "auto feed aquarium": "Авто-кормление аквариума"
+            },
+            "angler": {
+                "selected quest": "[ 📒 ] Select Quest",
+                "auto angler quest": "Auto Angler Quest"
             }
         },
         "teleport": {
