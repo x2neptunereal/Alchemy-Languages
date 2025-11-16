@@ -17,7 +17,11 @@
                 "open hold item": "Usa Oggetto In Mano"
             },
             "premium": {
-                "remove animation": "Rimuovi Animazione"
+                "remove animation": "Rimuovi Animazione",
+                "unequip rod check": "[ 🔄️ ] Unequip Rod Check",
+                "hook delay": "[ ✨ ] Hook Delay",
+                "cast delay": "[ ⚓ ] Cast Delay",
+                "insta catch": "Insta-Catch"
             },
             "cambia canna": {
                 "default rod": "[ 1️⃣ ] Canna Base",
@@ -121,6 +125,10 @@
                 "auto claim aquarium": "Auto Riscatta Acquario",
                 "feed delay": "[ 🐠 ] Ritardo Di Nutrimento",
                 "auto feed aquarium": "Auto Nutri Acquario"
+            },
+            "angler": {
+                "selected quest": "[ 📒 ] Select Quest",
+                "auto angler quest": "Auto Angler Quest"
             }
         },
         "teletrasporto": {
