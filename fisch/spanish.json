@@ -1,0 +1,227 @@
+{
+    "language": "ES",
+    "translator": "deathgod0784",
+    "data": {
+        "general": {
+            "fishing": {
+                "fishing location": "[ 🛥️ ] Lugar de Pesca",
+                "shake method": "[ 🔁 ] Método de Sacudida",
+                "reel method": "[ ⏩ ] Método de  Recogida",
+                "auto fishing": "Auto Pescar",
+                "perfect catch": "Captura Perfecta",
+                "drop bobber": "Soltar Flotador"
+            },
+            "others": {
+                "spear exploit": "Exploit de Lanza",
+                "insect farming": "Farmeo de Insectos",
+                "open hold item": "Abrir objeto en Mano"
+            },
+            "premium": {
+                "remove animation": "Quitar Animación",
+                "unequip rod check": "[ 🔄️ ] Checkeo de Caña Desequipada",
+                "hook delay": "[ ✨ ] Retraso del Anzuelo",
+                "cast delay": "[ ⚓ ] Retraso de Lanzar",
+                "insta catch": "Captura Instantánea"
+            },
+            "change rod": {
+                "default rod": "[ 1️⃣ ] Caña Predeterminada",
+                "rod for events": "[ 2️⃣ ] Caña para Eventos",
+                "change rod fishing": "Cambiar Caña de Pesca"
+            },
+            "events": {
+                "select events": "[ 🦈 ] Eventos Seleccionados ( Multiples )",
+                "text event 1": "🟢 <font color='rgb(0, 255, 85)'>También Incluyendo Antiguo</font>",
+                "enabled fishing events": "Eventos de Pesca Activados",
+                "text event 2": "➡️ <font color='rgb(0, 204, 255)'>Usar con Auto Pescar</font>",
+                "y multipy": "[ ⏬ ] Multiplicador de Y"
+            },
+            "sell": {
+                "sell delay": "[ 💸 ] Retraso de Venta",
+                "auto sell all fish": "Auto Vender Todos lo Peces",
+                "auto sell hold fish": "Auto Vender Pez en Mano",
+                "sell all fish": "[ 💵 ] Vender Todos los Peces",
+                "sell hold fish": "[ 💵 ] Vender Pez en Mano"
+            },
+            "favourite": {
+                "selected fish": "[ 🐟 ] Pez Seleccionado",
+                "add fish into list": "Añadir Pez a la Lista",
+                "removed fish from list": "Quitar Pez de la Lista",
+                "favourite delay": "[ ⭐ ] Retraso de Favorito ( % )",
+                "auto favourite fish": "Auto Peces Favoritos",
+                "auto favourite eggs": "Auto Huevos Favoritos",
+
+                "selected mutation": "[ ✨ ] Mutación Seleccionada",
+                "favourite delay 2": "[ ⭐ ] Retraso de Favorito ( % )",
+                "auto favourite mutation": "Auto Mutación Favorita"
+            },
+            "additional": {
+                "shake multiply": "[ ⏭️ ] Multiplicador de Sacudida",
+                "catch fish percent": "[ 🍔 ] Porcentaje de Captura de Pez",
+                "perfect catch percent": "[ 🍕 ] Porcentaje de Captura Perfecta",
+                "custom fishing delay": "[ 🥓 ] Retraso de Pesca Personalizado",
+                "enable custom fishing": "Habilitar Pesca Personalizada",
+                "enable fishing debug": "Habilitar Depuración de Pesca",
+                "auto equip rod": "Auto Equipar Caña",
+                "auto cast": "Auto Lanzar",
+                "auto shake": "Auto Sacudir",
+                "auto complete reel": "Auto Completar Recogida",
+                "auto nuke minigames": "Auto Minijuego de Nuke"
+            },
+            "unlock": {
+                "unlock all location": "[ 🔓 ] Desbloquear Todos los Lugares",
+                "redeem all codes": "[ 🔓 ] Reclamar Todos los Códigos"
+            },
+            "crab cage": {
+                "auto collect crab cage": "Auto Recolectar Jaula de Cangrejo",
+                "auto tp to crab cage": "Auto Teletransportarse a Jaula de Cangrejo"
+            },
+            "bait": {
+                "bait selected": "[ 🎣 ] Cebo Seleccionado",
+                "bait for event": "[ 🎣 ] Cebo Para Evento",
+                "auto equip bait": "Auto Equipar Cebo",
+                "auto change bait": "Auto Cambiar Cebo"
+            }
+        },
+        "automatic": {
+            "totem": {
+                "selected totem": "[ ✨ ] Totem Seleccionado",
+                "use totem": "Usar Totem",
+                "activate delay": "[ ⌛ ] Retraso de Activació",
+                "auto use totem": "Auto Usar Totem",
+                "auto use totem at day": "Auto Usar Totem en Día",
+                "auto use totem at night": "Auto Usar Totem en Noche",
+                "auto active aurora": "Auto Activar Aurora",
+                "auto active eclipse": "Auto Activar Eclipse",
+                "selected events 2": "[ 🦈 ] Eventos Seleccionados",
+                "auto spawn event": "Auto Generar Evento",
+                "selected events 3": "[ 🐳 ] Eventos Seleccionados 2",
+                "auto spawn event 2": "Auto Generar Evento 2",
+                "auto ancient kraken": "Auto Kraken Antiguo"
+            },
+            "drill": {
+                "auto drill lava crystals": "Auto Perforar Cristales de Lava",
+                "auto drill ice crystals": "Auto Perforar Cristales de Hielo"
+            },
+            "enchant": {
+                "selected enchant": "[ ⚡ ] Encantamiento Seleccionado",
+                "selected relic": "[ 🍥 ] Reliquia Seleccionada",
+                "auto enchant": "Auto Encantar"
+            },
+            "appraiser": {
+                "selected mutation 2": "[ ✨ ] Mutación Seleccionada",
+                "selected fish 2": "[ 🐟 ] Pez Seleccionado",
+                "auto appraise selected": "Auto Tasar Seleccionado",
+                "auto appraise hold": "Auto Tasar en Mano"
+            },
+            "lantern": {
+                "auto buy lantern": "Auto Comprar Linterna"
+            },
+            "treasure": {
+                "auto treasure": "Auto Tesoro"
+            },
+            "aquarium": {
+                "equip best fish": "[ 🐳 ] Equipar Mejor Pez",
+                "claim delay": "[ 🐬 ] Retraso de Reclamar",
+                "auto claim aquarium": "Auto Reclamar Acuario",
+                "feed delay": "[ 🐠 ] Retraso de Alimentación",
+                "auto feed aquarium": "Auto Alimentar Acuario"
+            },
+            "angler": {
+                "selected quest": "[ 📒 ] Misión Seleccionada",
+                "auto angler quest": "Auto Misión del Pescador"
+            }
+        },
+        "teleport": {
+            "island": {
+                "island location": "[ 🏝️ ] Ubicación de Isla",
+                "teleport to select island": "Teletransportarse a la Isla Seleccionada"
+            },
+            "npc": {
+                "npc location": "[ 💬 ] Ubicación de NPC",
+                "teleport to select npc": "Teletransportarse al NPC Seleccionado"
+            },
+            "custom": {
+                "position xyz": "[ 🗺️ ] Position ( x,y,z )",
+                "teleport to position": "Teletransportarse a Posición",
+                "copy current position": "Copiar Posición Actual",
+                "copy advanced position": "Copiar Posición Avanzada"
+            }
+        },
+        "shop": {
+            "totem": {
+                "totem selected": "[ ✨ ] Totems Seleccionados",
+                "totem amount": "[ ⏏️ ] Cantidad de Totems",
+                "buy selected totem": "Comprar Totems Seleccionados"
+            },
+            "rod": {
+                "rod selected": "[ 🚩 ] Caña Seleccionada",
+                "buy selected rod": "Comprar Caña Seleccionada"
+            },
+            "items": {
+                "item selected": "[ 🧪 ] Items Seleccionados",
+                "item amount": "[ ⏏️ ] Cantidad de Items",
+                "buy selected item": "Comprar Items Seleccionados"
+            },
+            "merlin": {
+                "merlin selected": "[ 🧩 ] Merlin Seleccionado",
+                "selected amount": "[ ⏏️ ] Cantidad Seleccionada",
+                "buy selected item 2": "Comprar Items Seleccionados"
+            }
+        },
+        "misc": {
+            "visual": {
+                "open black market": "[ 🎩 ] Abrir Mercado Negro",
+                "fps boost": "[ ⚠️ ] Mejora de FPS",
+                "clear terrain": "[ ⚠️ ] Borrar Terreno",
+                "remove lava": "[ 🌋 ] Quitar Lava",
+                "hide inventory": "Ocultar Inventario",
+                "hide fish notify": "Ocultar Notificación de Pez",
+                "protect player data": "Proteger Datos de Jugador",
+                "protect identity": "Proteger Identidad",
+                "protect fish caught": "Proteger Pez Capturado",
+                "esp island": "ESP Isla",
+                "esp fish": "ESP Pez",
+                "inf oxygen water": "Oxígeno Infinito en Agua",
+                "inf oxygen peak": "Oxígeno Infinito en Superficie",
+                "disable temperature cold": "Desactivar Temperatura Fría",
+                "disable temperature heat": "Desactivar Temperatura Caliente"
+            },
+            "effect": {
+                "remove all fog": "[ ⚠️ ] Quitar TODA la Niebla",
+                "remove cutscene": "Quitar Cinemática",
+                "remove effect": "Quitar Efecto"
+            },
+            "misc": {
+                "auto delete fish": "Auto Eliminar Pez",
+                "walk on water": "Andar sobre el Agua",
+                "enable fishing underwater": "Habilitar Pesca Bajo el Agua",
+                "white screen": "Pantalla Blanca",
+                "black screen": "Pantalla Negra",
+                "disable afk title": "Desactivar Título AFK"
+            },
+            "skin": {
+                "selected rod skin": "Skin De Caña Seleccionada",
+                "apply selected skin": "[ ✨ ] Aplicar Skin Seleccionada"
+            },
+            "player": {
+                "walk speed": "[ 🦶 ] Vellcidad de Andar",
+                "enable walk speed": "Activar Velocidad de Andar",
+                "jump power": "[ 🔼 ] Poder de Salto",
+                "enable jump power": "Habiliar Poder de Salto"
+            },
+            "server": {
+                "server hop": "[ ⬆️ ] Cambiar de Servidor",
+                "server hop low": "[ ⬆️ ] Cambiar a Servidor Pequeño",
+                "server job id": "[ 📩 ] ID del Servidor",
+                "join server": "Unirse al Servidor",
+                "copy job id": "Copiar ID del Servidor"
+            },
+            "webhook": {
+                "webhook url": "[ 📌 ] Url del Webhook",
+                "enable webhook": "Habilitar Webhook",
+                "show userdata": "Mostrar Datos del Usuario",
+                "show server jobid": "Mostrar ID del Servidor"
+            }
+        }
+    }
+}

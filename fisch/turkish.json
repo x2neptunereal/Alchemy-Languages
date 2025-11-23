@@ -1,0 +1,227 @@
+{
+    "language": "TR",
+    "translator": "luckynfinalform",
+    "data": {
+        "general": {
+            "fishing": {
+                "fishing location": "[ 🛥️ ] Balık Tutma Konumu",
+                "shake method": "[ 🔁 ] Sallama Yöntemi",
+                "reel method": "[ ⏩ ] Makara Yöntemi ",
+                "auto fishing": "Otomatik Balık Tutma",
+                "perfect catch": "Kusursuz Tutuş",
+                "drop bobber": "Mantarı Düşür"
+            },
+            "others": {
+                "spear exploit": "Mızrak Açığı",
+                "insect farming": "Böcek Farmlamak",
+                "open hold item": "Tutulan İtemi Aç"
+            },
+            "premium": {
+                "remove animation": "Animasyonu Kaldır",
+                "unequip rod check": "[ 🔄️ ] Oltayı Çıkarma Kontrolü",
+                "hook delay": "[ ✨ ] Olta Gecikmesi",
+                "cast delay": "[ ⚓ ] Olta Atma Gecikmesi",
+                "insta catch": "Hızlı Tutuş"
+            },
+            "change rod": {
+                "default rod": "[ 1️⃣ ] Varsayılan Olta",
+                "rod for events": "[ 2️⃣ ] Etkinlikler İçin Olta",
+                "change rod fishing": "Olta Değiştirme"
+            },
+            "events": {
+                "select events": "[ 🦈 ] Etkinlikleri Seç",
+                "text event 1": "🟢 <font color='rgb(0, 255, 85)'>Ancient Dahil</font>",
+                "enabled fishing events": " Etkinlikler Aktifleştirildi",
+                "text event 2": "➡️ <font color='rgb(0, 204, 255)'>Otomatil Balık Tutmayla Kullan</font>",
+                "y multipy": "[ ⏬ ] Y Katı "
+            },
+            "sell": {
+                "sell delay": "[ 💸 ] Satış Gecikmesi",
+                "auto sell all fish": "Otomatik Tüm Balıkları Sat",
+                "auto sell hold fish": "Otomatik Tutulan Balığı Sat",
+                "sell all fish": "[ 💵 ] Tüm Balıkları Sat",
+                "sell hold fish": "[ 💵 ] Tutulan Balığı Sat"
+            },
+            "favourite": {
+                "selected fish": "[ 🐟 ] Balık Seç",
+                "add fish into list": "Balığı Listeye Ekle",
+                "removed fish from list": "Listeden Balığı Kaldır",
+                "favourite delay": "[ ⭐ ] Favori Gecikmesi ( % )",
+                "auto favourite fish": "Otomatik Balığı Favorile",
+                "auto favourite eggs": "Otomatik Yumurtaları Favorile",
+
+                "selected mutation": "[ ✨ ] Mutasyon Seç",
+                "favourite delay 2": "[ ⭐ ] Favori Gecikmesi ( % )",
+                "auto favourite mutation": "Otomatik Mutasyon Favorile"
+            },
+            "additional": {
+                "shake multiply": "[ ⏭️ ] Shake Multiply",
+                "catch fish percent": "[ 🍔 ] Balık Tutma Oranı",
+                "perfect catch percent": "[ 🍕 ] Kusursuz Tutuş Oranı",
+                "custom fishing delay": "[ 🥓 ] Özel Balık Tutma Gecikmesi",
+                "enable custom fishing": "Özel Balık Tutmayı Aktifleştir",
+                "enable fishing debug": "Özel Balık Tutma Hata Ayıklamasını Aktifleştir",
+                "auto equip rod": "Otomatik Olta Takma",
+                "auto cast": "Otomatik Olta Atma",
+                "auto shake": "Otomatik Sallama",
+                "auto complete reel": "Otomatik Tutmayı Bitir",
+                "auto nuke minigames": "Otomatik Nuke Minigamesi"
+            },
+            "unlock": {
+                "unlock all location": "[ 🔓 ] Tüm Bölgeleri Aç",
+                "redeem all codes": "[ 🔓 ] Tüm Kodları Kullan"
+            },
+            "crab cage": {
+                "auto collect crab cage": "Otomatik Crab Cageleri topla",
+                "auto tp to crab cage": "Otomatik Crab Cagelere Işınlan"
+            },
+            "bait": {
+                "bait selected": "[ 🎣 ] Yem Seç",
+                "bait for event": "[ 🎣 ] Etkinlik için Yem",
+                "auto equip bait": "Otomatik Yem Tak",
+                "auto change bait": "Otomatik Yem Değiştir"
+            }
+        },
+        "automatic": {
+            "totem": {
+                "selected totem": "[ ✨ ] Seçilen Totem ",
+                "use totem": "Totemi Kullan",
+                "activate delay": "[ ⌛ ] Aktifleşme Aralığı",
+                "auto use totem": "Otomatik Totem Kullan",
+                "auto use totem at day": "Gündüz Otomatik Totem Kullan",
+                "auto use totem at night": "Gece Otomatik Totem Kullan ",
+                "auto active aurora": "Otomatik Aurora Aktifleştir",
+                "auto active eclipse": "Otomatik Eclipse Aktifleştir",
+                "selected events 2": "[ 🦈 ] Etkinlik Seç",
+                "auto spawn event": "Otomatik Etkinlik Oluştur",
+                "selected events 3": "[ 🐳 ] Etkinlik Seç 2",
+                "auto spawn event 2": "Otomatik Etkinlik Oluştur 2",
+                "auto ancient kraken": "Otomatik Ancient Kraken"
+            },
+            "drill": {
+                "auto drill lava crystals": "Otomatk Lav Kristallerini Kaz",
+                "auto drill ice crystals": "Otomatik Buz Kristallerini Kaz"
+            },
+            "enchant": {
+                "selected enchant": "[ ⚡ ] Seçilen Büyü",
+                "selected relic": "[ 🍥 ] Seçilen Eser",
+                "auto enchant": "Otomatik Büyüle"
+            },
+            "appraiser": {
+                "selected mutation 2": "[ ✨ ] Mutasyon Seç",
+                "selected fish 2": "[ 🐟 ] Balık Seç ",
+                "auto appraise selected": "Seçileni Otomatik Değerlendir",
+                "auto appraise hold": "Tutulanı Otomatik Değerlendir"
+            },
+            "lantern": {
+                "auto buy lantern": "Otomatik Fener Satın Al "
+            },
+            "treasure": {
+                "auto treasure": "Otomatik Define"
+            },
+            "aquarium": {
+                "equip best fish": "[ 🐳 ] En İyi Balığı Tak",
+                "claim delay": "[ 🐬 ] Toplama Gecikmesi",
+                "auto claim aquarium": "Otomatik Akvaryumdan Topla",
+                "feed delay": "[ 🐠 ] Besleme Aralığı",
+                "auto feed aquarium": "Otomatik Akvaryumu Besle"
+            },
+            "angler": {
+                "selected quest": "[ 📒 ] Görev Seç",
+                "auto angler quest": "Otomatik Angler Görevi"
+            }
+        },
+        "teleport": {
+            "island": {
+                "island location": "[ 🏝️ ] Ada Konumu",
+                "teleport to select island": "Seçilen Adaya Işınlan"
+            },
+            "npc": {
+                "npc location": "[ 💬 ] NPC Konumu",
+                "teleport to select npc": "NPC'ye Işınlan"
+            },
+            "custom": {
+                "position xyz": "[ 🗺️ ] Pozisyon ( x,y,z )",
+                "teleport to position": "Pozisyona Işınlan",
+                "copy current position": "Pozisyonunu Kopyala",
+                "copy advanced position": "Gelişmiş Pozisyonunu Kopyala"
+            }
+        },
+        "shop": {
+            "totem": {
+                "totem selected": "[ ✨ ] Totemler Seç",
+                "totem amount": "[ ⏏️ ] Totem Miktarı",
+                "buy selected totem": "Seçilen Totemi Satın Al"
+            },
+            "rod": {
+                "rod selected": "[ 🚩 ] Olta Seç",
+                "buy selected rod": "Seçilen Oltayı Satın Al"
+            },
+            "items": {
+                "item selected": "[ 🧪 ] Eşya Seç",
+                "item amount": "[ ⏏️ ] Eşya Miktarı",
+                "buy selected item": "Seçilen Eşyayı Satın Al"
+            },
+            "merlin": {
+                "merlin selected": "[ 🧩 ] Merlinden Seçilen",
+                "selected amount": "[ ⏏️ ] Miktar Seç",
+                "buy selected item 2": "Seçilen Eşyayı Satın Al"
+            }
+        },
+        "misc": {
+            "visual": {
+                "open black market": "[ 🎩 ] Kara Marketi Aç",
+                "fps boost": "[ ⚠️ ] FPS Arttırma",
+                "clear terrain": "[ ⚠️ ] Araziyi Kaldır",
+                "remove lava": "[ 🌋 ] Lavı Yok Et",
+                "hide inventory": "Envanteri Gizle",
+                "hide fish notify": "Balık Bildirisini Gizle",
+                "protect player data": "Oyuncu Datasını Koru",
+                "protect identity": "Kimliği Koru",
+                "protect fish caught": "Tutulan Balığı Koru",
+                "esp island": "Ada ESP",
+                "esp fish": "Balık ESP",
+                "inf oxygen water": "Suda Sonsuz Nefes",
+                "inf oxygen peak": "Sonsuz Zirve Oksijeni",
+                "disable temperature cold": "Üşümeyi Kapat ",
+                "disable temperature heat": "Sıcaklığı Kapat"
+            },
+            "effect": {
+                "remove all fog": "[ ⚠️ ] Tüm Sisi Gizle",
+                "remove cutscene": "Sinematiği Kaldır",
+                "remove effect": "Efekti Kaldır"
+            },
+            "misc": {
+                "auto delete fish": "Otomatik Balığı Sil",
+                "walk on water": "Suda Yürü",
+                "enable fishing underwater": "Suyun Altında Balık Tutmayı Aktifleştir",
+                "white screen": "Beyaz Ekra ",
+                "black screen": "Siyah Ekran",
+                "disable afk title": "AFK Yazısını Kaldır"
+            },
+            "skin": {
+                "selected rod skin": "Olta Kostümü Seç",
+                "apply selected skin": "[ ✨ ] Seçilen Kostümü Uygula"
+            },
+            "player": {
+                "walk speed": "[ 🦶 ] Yürüme Hızı",
+                "enable walk speed": "Yürüme Hızını Aktifleştir",
+                "jump power": "[ 🔼 ] Zıplama Gücü",
+                "enable jump power": "Zıplama Gücünü Aktifleştir"
+            },
+            "server": {
+                "server hop": "[ ⬆️ ] Sunucu Değiştir",
+                "server hop low": "[ ⬆️ ] Az Kişilik Sunucuya Geç",
+                "server job id": "[ 📩 ] Sunucu Job ID",
+                "join server": "Sunucuya Katıl",
+                "copy job id": "Job ID Kopyala"
+            },
+            "webhook": {
+                "webhook url": "[ 📌 ] Webhook Linki",
+                "enable webhook": "Webhook Aktifleştir",
+                "show userdata": "Userdata Göster",
+                "show server jobid": "Sunucu Job-id Göster "
+            }
+        }
+    }
+}
