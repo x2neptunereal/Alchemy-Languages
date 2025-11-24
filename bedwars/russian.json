@@ -1,0 +1,217 @@
+{
+    "translator": "zaminationru",
+    "language": "RU",
+    "data": {
+        "render": {
+            "category_tr": "Визуал",
+            "category_tr_info": "Настройки отображения ESP и графики",
+            "esp": {
+                "esp_tr": "ESP",
+                "esp_tr_info": "Отображение игроков через стены",
+                "teams check": "Чекер команд",
+                "show tracers": "Показ трейсеров",
+                "wall check": "Чекать на стену",
+                "show health": "Показ хп",
+                "show boxes": "Показ боксов",
+                "show names": "Показ ников",
+                "use display names": "Юзать дисплей ники",
+                "enable": "Включить",
+                "show distance": "Показывать дистанцию"
+            },
+            "item esp": {
+                "item_esp_tr": "ESP предметов",
+                "item_esp_tr_info": "Отображение предметов на карте",
+                "item filter": "Фильтр предметов",
+                "show names": "Показ названий",
+                "include chest items": "Вкл. сундуки",
+                "include dropped items": "Вкл. дропнутые",
+                "enable": "Включить",
+                "show amounts": "Показ кол-ва",
+                "range": "Дистанция",
+                "show distance": "Показ дистанции"
+            }
+        },
+        "player": {
+            "category_tr": "Игрок",
+            "category_tr_info": "Управление движением и способностями",
+            "speed": {
+                "speed_tr": "Скорость",
+                "speed_tr_info": "Изменение скорости передвижения",
+                "speed mode": "Режим скорости",
+                "jump mode": "Режим прыжка",
+                "enable": "Включить",
+                "speed": "Скорость",
+                "auto jump": "Автопрыжок",
+                "always jump": "Всегда прыгать"
+            },
+            "flight": {
+                "flight_tr": "Полёт",
+                "flight_tr_info": "Возможность летать",
+                "speed": "Скорость",
+                "speed mode": "Режим скорости",
+                "keybind": "Клавиша",
+                "enable": "Включить",
+                "vertical speed": "Верт. скорость",
+                "vertical mode": "Верт. режим",
+                "tp down": "ТП вниз"
+            },
+            "scaffold": {
+                "place cps": "КПС плейса",
+                "scaffold_tr": "Scaffold",
+                "scaffold_tr_info": "Авто плейс блоков под собой",
+                "keybind": "Клавиша",
+                "enable": "Включить",
+                "hand check": "Чекать руку",
+                "expand": "Расширение",
+                "tower": "Башня",
+                "downwards": "Вниз",
+                "visualize switch": "Визуал смена",
+                "auto switch": "Автосмена"
+            },
+            "auto sprint": {
+                "auto_sprint_tr": "Авто-спринт",
+                "auto_sprint_tr_info": "Автоматический бег",
+                "enable": "Включить"
+            }
+        },
+        "combat": {
+            "category_tr": "Комбат",
+            "category_tr_info": "Боевые функции и автоматизация",
+            "killaura": {
+                "teams check": "Чекер команды",
+                "killaura_tr": "Киллаура",
+                "killaura_tr_info": "Автоатака ближайших врагов",
+                "include npcs": "Вкл. мобов",
+                "enable": "Включить",
+                "hand check": "Чекать руку",
+                "custom animation": "Кастом анимация",
+                "include players": "Вкл. игроков",
+                "visualize target": "Визуал цели",
+                "wall check": "Чекать на стену",
+                "attack range": "Дальность атаки",
+                "visualize auto switch": "Визуал автосмены",
+                "swing sword": "Анимка удара",
+                "targets per second": "Целей в секунду",
+                "swing time": "Время анимки"
+            },
+            "aim assist": {
+                "teams check": "Чекер команды",
+                "aim_assist_tr": "Аим-ассистент",
+                "aim_assist_tr_info": "Помощь в прицеливании",
+                "aim speed": "Скорость аима",
+                "include npcs": "Вкл. мобов",
+                "enable": "Включить",
+                "fov thickness": "Толщина FOV",
+                "include players": "Вкл. игроков",
+                "fov radius": "Радиус FOV",
+                "fov transparency": "Прозрачность FOV",
+                "target part": "Таргет парт",
+                "aim fov": "FOV аима",
+                "show fov": "Показ FOV",
+                "fov sides": "Стороны FOV",
+                "wall check": "Чекер на стену",
+                "require mouse down": "Только при ЛКМ"
+            },
+            "reach": {
+                "enable": "Включить",
+                "range": "Дистанция",
+                "reach_tr": "Reach",
+                "reach_tr_info": "Увеличение дистанции атаки"
+            }
+        },
+        "minigames": {
+            "category_tr": "Мини-игры",
+            "category_tr_info": "Функции для мини-игр",
+            "keep sprint": {
+                "keep_sprint_tr": "Сохранять спринт",
+                "keep_sprint_tr_info": "Не сбрасывать бег при ударе",
+                "enable": "Включить"
+            },
+            "no fall": {
+                "no_fall_tr": "No Fall",
+                "no_fall_tr_info": "Откл. урон от падения",
+                "enable": "Включить"
+            }
+        },
+        "utility": {
+            "category_tr": "Утилиты",
+            "category_tr_info": "Вспомогательные функции",
+            "bow aura": {
+                "bow_aura_tr": "Bow Aura",
+                "bow_aura_tr_info": "Авто-стрельба из лука"
+            },
+            "loot aura": {
+                "loot_aura_tr": "Loot Aura",
+                "loot_aura_tr_info": "Автоматический подбор лута",
+                "visualize chest": "Визуал сундука",
+                "radius": "Радиус",
+                "loot delay": "Задержка лута",
+                "enable": "Включить",
+                "randomize order": "Рандом порядок"
+            },
+            "auto eat": {
+                "auto_eat_tr": "Авто-еда",
+                "auto_eat_tr_info": "Автоматическое поедание пищи",
+                "ignore speed": "Игнор скорости",
+                "enable": "Включить",
+                "hand check": "Чекер руки",
+                "auto switch": "Автосмена",
+                "notify after eaten": "Увед. после еды",
+                "delay": "Задержка",
+                "sync eat time": "Синхр. время еды",
+                "visualize switch": "Визуал смены",
+                "ignore healing": "Игнор лечения"
+            }
+        },
+        "settings": {
+            "category_tr": "Настройки",
+            "category_tr_info": "Настройки интерфейса и языка",
+            "ui language": {
+                "ui_language_tr": "Язык интерфейса",
+                "ui_language_tr_info": "Настройки языка",
+                "text language": "Язык текста"
+            },
+            "ui settings": {
+                "ui_settings_tr": "Настройки UI",
+                "ui_settings_tr_info": "Внешний вид интерфейса",
+                "highlight": "Подсветка",
+                "line color": "Цвет линии",
+                "block color": "Цвет блока",
+                "stroke color": "Цвет обводки",
+                "high stroke color": "Цвет верх. обводки",
+                "mouse enter": "При наведении",
+                "background color": "Цвет фона",
+                "switch color": "Цвет переключателя",
+                "alway show frame": "Всегда показ. рамку",
+                "unload": "Выгрузить",
+                "block background color": "Цвет фона блока",
+                "risky": "Рисковый",
+                "drop color": "Цвет дропа",
+                "toggle color": "Цвет переключателей"
+            }
+        },
+        "world": {
+            "category_tr": "Мир",
+            "category_tr_info": "Взаимодействие с игровым миром",
+            "long flight": {
+                "long_flight_tr": "Долгий полёт",
+                "long_flight_tr_info": "Позволяет летать на большие расстояния",
+                "enable": "Включить",
+                "speed": "Скорость",
+                "keybind": "Клавиша"
+            },
+            "fast pickup": {
+                "fast_pickup_tr": "Быстрый подбор",
+                "fast_pickup_tr_info": "Ускоренный подбор предметов",
+                "notify on pickup": "Увед. при подборе",
+                "range": "Дистанция",
+                "delay": "Задержка",
+                "enable": "Включить"
+            },
+            "bed nuker": {
+                "bed_nuker_tr": "Bed Nuker",
+                "bed_nuker_tr_info": "Автоматическое уничтожение кроватей"
+            }
+        }
+    }
+}
