@@ -1,0 +1,163 @@
+{
+    "translator": "none",
+    "language": "EN",
+    "data": {
+        "render": {
+            "esp": {
+                "teams check": "Teams Check",
+                "show tracers": "Show Tracers",
+                "wall check": "Wall Check",
+                "show health": "Show Health",
+                "show boxes": "Show Boxes",
+                "show names": "Show Names",
+                "use display names": "Use Display Names",
+                "enable": "Enable",
+                "show distance": "Show Distance"
+            },
+            "item esp": {
+                "item filter": "Item Filter",
+                "show names": "Show Names",
+                "include chest items": "Include chest items",
+                "include dropped items": "Include dropped items",
+                "enable": "Enable",
+                "show amounts": "Show Amounts",
+                "range": "Range",
+                "show distance": "Show Distance"
+            }
+        },
+        "player": {
+            "speed": {
+                "speed mode": "Speed Mode",
+                "jump mode": "Jump Mode",
+                "enable": "Enable",
+                "speed": "Speed",
+                "auto jump": "Auto Jump",
+                "always jump": "Always Jump"
+            },
+            "flight": {
+                "speed": "Speed",
+                "speed mode": "Speed Mode",
+                "keybind": "Keybind",
+                "enable": "Enable",
+                "vertical speed": "Vertical Speed",
+                "vertical mode": "Vertical Mode",
+                "tp down": "TP Down"
+            },
+            "scaffold": {
+                "place cps": "Place CPS",
+                "keybind": "Keybind",
+                "enable": "Enable",
+                "hand check": "Hand Check",
+                "expand": "Expand",
+                "tower": "Tower",
+                "downwards": "Downwards",
+                "visualize switch": "Visualize Switch",
+                "auto switch": "Auto Switch"
+            },
+            "auto sprint": {
+                "enable": "Enable"
+            }
+        },
+        "combat": {
+            "killaura": {
+                "teams check": "Teams Check",
+                "include npcs": "Include NPCs",
+                "enable": "Enable",
+                "hand check": "Hand Check",
+                "custom animation": "Custom Animation",
+                "include players": "Include Players",
+                "visualize target": "Visualize Target",
+                "wall check": "Wall Check",
+                "attack range": "Attack Range",
+                "visualize auto switch": "Visualize Auto Switch",
+                "swing sword": "Swing Sword",
+                "targets per second": "Targets Per Second",
+                "swing time": "Swing Time"
+            },
+            "aim assist": {
+                "teams check": "Teams Check",
+                "aim speed": "Aim Speed",
+                "include npcs": "Include NPCs",
+                "enable": "Enable",
+                "fov thickness": "FOV Thickness",
+                "include players": "Include Players",
+                "fov radius": "FOV Radius",
+                "fov transparency": "FOV Transparency",
+                "target part": "Target Part",
+                "aim fov": "Aim FOV",
+                "show fov": "Show FOV",
+                "fov sides": "FOV Sides",
+                "wall check": "Wall Check",
+                "require mouse down": "Require mouse down"
+            },
+            "reach": {
+                "enable": "Enable",
+                "range": "Range"
+            }
+        },
+        "minigames": {
+            "keep sprint": {
+                "enable": "Enable"
+            },
+            "no fall": {
+                "enable": "Enable"
+            }
+        },
+        "utility": {
+            "bow aura": [],
+            "loot aura": {
+                "visualize chest": "Visualize Chest",
+                "radius": "Radius",
+                "loot delay": "Loot Delay",
+                "enable": "Enable",
+                "randomize order": "Randomize Order"
+            },
+            "auto eat": {
+                "ignore speed": "Ignore Speed",
+                "enable": "Enable",
+                "hand check": "Hand Check",
+                "auto switch": "Auto Switch",
+                "notify after eaten": "Notify after eaten",
+                "delay": "Delay",
+                "sync eat time": "Sync eat time",
+                "visualize switch": "Visualize Switch",
+                "ignore healing": "Ignore Healing"
+            }
+        },
+        "settings": {
+            "ui language": {
+                "text language": "Text Language"
+            },
+            "ui settings": {
+                "highlight": "Highlight",
+                "line color": "Line Color",
+                "block color": "Block Color",
+                "stroke color": "Stroke Color",
+                "high stroke color": "High Stroke Color",
+                "mouse enter": "Mouse Enter",
+                "background color": "Background Color",
+                "switch color": "Switch Color",
+                "alway show frame": "Alway Show Frame",
+                "unload": "Unload",
+                "block background color": "Block Background Color",
+                "risky": "Risky",
+                "drop color": "Drop Color",
+                "toggle color": "Toggle Color"
+            }
+        },
+        "world": {
+            "long flight": {
+                "enable": "Enable",
+                "speed": "Speed",
+                "keybind": "Keybind"
+            },
+            "fast pickup": {
+                "notify on pickup": "Notify on pickup",
+                "range": "Range",
+                "delay": "Delay",
+                "enable": "Enable"
+            },
+            "bed nuker": []
+        }
+    }
+}
