@@ -1,0 +1,196 @@
+{
+    "translator": "spikkio_",
+    "language": "IT",
+    "data": {
+        "render": {
+            "item esp": {
+                "item filter": "Filtro Di Oggetti",
+                "show names": "Mostra Nomi",
+                "include chest items": "Includi Oggetti Casse",
+                "include dropped items": "Includi Oggetti Droppati",
+                "enable": "Abilita",
+                "show amounts": "Mostra Quantità",
+                "range": "Raggio",
+                "show distance": "Mostra Distanza"
+            },
+            "viewmodel": {
+                "enable": "Abilita",
+                "depth": "Profondità",
+                "vertical": "Verticale",
+                "horizontal": "Orizzontale"
+            },
+            "esp": {
+                "teams check": "Controllo Squadre",
+                "show tracers": "Mostra Tracciatori",
+                "wall check": "Controllo Muri",
+                "show health": "Mostra Vita",
+                "show boxes": "Mostra Casse",
+                "show names": "Mostra Nomi",
+                "use display names": "Usa I Nomi Display",
+                "enable": "Abilita",
+                "show distance": "Mostra Distanza"
+            },
+            "fov changer": {
+                "enable": "Abilita",
+                "value": "Valore"
+            }
+        },
+        "player": {
+            "speed": {
+                "speed": "Velocità",
+                "speed mode": "Modalità Di Velocità",
+                "jump mode": "Modalità Di Salto",
+                "enable": "Abilita",
+                "auto jump": "Auto Salta",
+                "use additional speed": "Usa Velocità Aggiuntiva",
+                "always jump": "Salta Sempre"
+            },
+            "flight": {
+                "speed": "Velocità",
+                "speed mode": "Modalità Di Velocità",
+                "keybind": "Tasto",
+                "enable": "Abilita",
+                "vertical speed": "Velocità Verticale",
+                "vertical mode": "Modalità Verticale",
+                "tp down": "TP Sotto"
+            },
+            "scaffold": {
+                "place cps": "Velocità Nel Piazzare",
+                "keybind": "Tasto",
+                "enable": "Abilita",
+                "hand check": "Controllo A Mano",
+                "expand": "Espandi",
+                "tower": "Torre",
+                "downwards": "Verso Il Basso",
+                "visualize switch": "Visualizza Cambio",
+                "auto switch": "Auto Cambia"
+            },
+            "auto sprint": {
+                "enable": "Abilita"
+            }
+        },
+        "combat": {
+            "killaura": {
+                "teams check": "Controllo Squadre",
+                "visualize target": "Visualizza Obiettivo",
+                "size": "Dimensione",
+                "include npcs": "Includi NPC",
+                "enable": "Abilita",
+                "hand check": "Controllo A Mano",
+                "custom animation": "Animazione Custom",
+                "include players": "Includi Giocatori",
+                "swing time": "Velocità Di Agitazione",
+                "show particles": "Mostra Particelle",
+                "wall check": "Controllo Muri",
+                "attack range": "Raggio Di Attacco",
+                "visualize auto switch": "Visualizza Auto Cambio",
+                "swing sword": "Agita Spada",
+                "targets per second": "Obiettivi Al Secondo",
+                "texture": "Texture"
+            },
+            "aim assist": {
+                "teams check": "Controllo Squadre",
+                "aim speed": "Velocità Di Mira",
+                "include npcs": "Includi NPC",
+                "enable": "Abilita",
+                "fov thickness": "Spessore FOV",
+                "include players": "Includi Giocatori",
+                "fov radius": "Raggio FOV",
+                "fov transparency": "Trasparenza FOV",
+                "target part": "Mira Parte",
+                "aim fov": "FOV Di Mira",
+                "show fov": "Mostra FOV",
+                "fov sides": "Lati FOV",
+                "wall check": "Controllo Muri",
+                "require mouse down": "Richiesto Mouse Giù"
+            },
+            "no knockback": {
+                "enable": "Abilita"
+            },
+            "reach": {
+                "enable": "Abilita",
+                "range": "Raggio"
+            }
+        },
+        "minigames": {
+            "keep sprint": {
+                "enable": "Abilita"
+            },
+            "no fall": {
+                "enable": "Abilita"
+            }
+        },
+        "utility": {
+            "bow aura": {
+                "teams check": "Controllo Squadre",
+                "include npcs": "Includi NPC",
+                "enable": "Abilita",
+                "range": "Raggio",
+                "exclude fast projectiles": "Escludi Proiettili Veloci",
+                "exclude slow projectiles": "Escludi Proiettili Lenti",
+                "visualize target": "Visualizza Obiettivo",
+                "wall check": "Controllo Muri",
+                "include players": "Includi Giocatori"
+            },
+            "loot aura": {
+                "visualize chest": "Visualizza Cassa",
+                "radius": "Raggio",
+                "loot delay": "Ritardo Di Looting",
+                "enable": "Abilita",
+                "randomize order": "Randomizza Ordine"
+            },
+            "auto eat": {
+                "ignore speed": "Ignora Velocità",
+                "enable": "Abilita",
+                "hand check": "Controllo A Mano",
+                "auto switch": "Auto Cambia",
+                "notify after eaten": "Notifica Dopo Mangiato",
+                "delay": "Ritardo",
+                "sync eat time": "Sincronizza Tempo Di Mangiata",
+                "visualize switch": "Visualizza Cambio",
+                "ignore healing": "Ignora Cure"
+            }
+        },
+        "settings": {
+            "ui language": {
+                "text language": "Lingua Di Testo"
+            },
+            "ui settings": {
+                "highlight": "Evidenzia",
+                "line color": "Colore Linea",
+                "block color": "Colore Blocco",
+                "stroke color": "Colore Del Tratto",
+                "high stroke color": "Colore Del Tratto In Alto",
+                "mouse enter": "Enter Mouse",
+                "background color": "Colore Di Sottofondo",
+                "switch color": "Cambia Colore",
+                "alway show frame": "Mostra Sempre Frame",
+                "unload": "Disattiva",
+                "block background color": "Blocca Colore Di Sottofondo",
+                "risky": "Rischioso",
+                "drop color": "Colore Di Drop",
+                "toggle color": "Colore Interruttore"
+            }
+        },
+        "world": {
+            "long flight": {
+                "enable": "Abilita",
+                "speed": "Velocità",
+                "keybind": "Tasto"
+            },
+            "fast pickup": {
+                "notify on pickup": "Notifica Alla Raccolta",
+                "range": "Raggio",
+                "delay": "Ritardo",
+                "enable": "Abilita"
+            },
+            "bed nuker": {
+                "use priority tools": "Usa Strumenti Di Priorità",
+                "enable": "Abilita",
+                "hand check": "Controllo A Mano",
+                "visualize switch": "Visualizza Cambio",
+                "range": "Raggio"
+            }
+        }
+    }
+}
