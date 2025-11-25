@@ -3,6 +3,22 @@
     "language": "EN",
     "data": {
         "render": {
+            "item esp": {
+                "item filter": "Item Filter",
+                "show names": "Show Names",
+                "include chest items": "Include chest items",
+                "include dropped items": "Include dropped items",
+                "enable": "Enable",
+                "show amounts": "Show Amounts",
+                "range": "Range",
+                "show distance": "Show Distance"
+            },
+            "viewmodel": {
+                "enable": "Enable",
+                "depth": "Depth",
+                "vertical": "Vertical",
+                "horizontal": "Horizontal"
+            },
             "esp": {
                 "teams check": "Teams Check",
                 "show tracers": "Show Tracers",
@@ -14,24 +30,19 @@
                 "enable": "Enable",
                 "show distance": "Show Distance"
             },
-            "item esp": {
-                "item filter": "Item Filter",
-                "show names": "Show Names",
-                "include chest items": "Include chest items",
-                "include dropped items": "Include dropped items",
+            "fov changer": {
                 "enable": "Enable",
-                "show amounts": "Show Amounts",
-                "range": "Range",
-                "show distance": "Show Distance"
+                "value": "Value"
             }
         },
         "player": {
             "speed": {
+                "speed": "Speed",
                 "speed mode": "Speed Mode",
                 "jump mode": "Jump Mode",
                 "enable": "Enable",
-                "speed": "Speed",
                 "auto jump": "Auto Jump",
+                "use additional speed": "Use Additional Speed",
                 "always jump": "Always Jump"
             },
             "flight": {
@@ -61,18 +72,21 @@
         "combat": {
             "killaura": {
                 "teams check": "Teams Check",
+                "visualize target": "Visualize Target",
+                "size": "Size",
                 "include npcs": "Include NPCs",
                 "enable": "Enable",
                 "hand check": "Hand Check",
                 "custom animation": "Custom Animation",
                 "include players": "Include Players",
-                "visualize target": "Visualize Target",
+                "swing time": "Swing Time",
+                "show particles": "Show Particles",
                 "wall check": "Wall Check",
                 "attack range": "Attack Range",
                 "visualize auto switch": "Visualize Auto Switch",
                 "swing sword": "Swing Sword",
                 "targets per second": "Targets Per Second",
-                "swing time": "Swing Time"
+                "texture": "Texture"
             },
             "aim assist": {
                 "teams check": "Teams Check",
@@ -90,6 +104,9 @@
                 "wall check": "Wall Check",
                 "require mouse down": "Require mouse down"
             },
+            "no knockback": {
+                "enable": "Enable"
+            },
             "reach": {
                 "enable": "Enable",
                 "range": "Range"
@@ -104,7 +121,17 @@
             }
         },
         "utility": {
-            "bow aura": [],
+            "bow aura": {
+                "teams check": "Teams Check",
+                "include npcs": "Include NPCs",
+                "enable": "Enable",
+                "range": "Range",
+                "exclude fast projectiles": "Exclude Fast Projectiles",
+                "exclude slow projectiles": "Exclude Slow Projectiles",
+                "visualize target": "Visualize Target",
+                "wall check": "Wall Check",
+                "include players": "Include Players"
+            },
             "loot aura": {
                 "visualize chest": "Visualize Chest",
                 "radius": "Radius",
@@ -157,7 +184,13 @@
                 "delay": "Delay",
                 "enable": "Enable"
             },
-            "bed nuker": []
+            "bed nuker": {
+                "use priority tools": "Use priority tools",
+                "enable": "Enable",
+                "hand check": "Hand Check",
+                "visualize switch": "Visualize Switch",
+                "range": "Range"
+            }
         }
     }
 }
