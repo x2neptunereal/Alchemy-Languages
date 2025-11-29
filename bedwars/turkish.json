@@ -1,0 +1,196 @@
+{
+  "translator": "luckynfinalform",
+  "language": "tr",
+  "data": {
+    "render": {
+      "item esp": {
+        "item filter": "Eşya filtresi",
+        "show names": "İsimleri göster",
+        "include chest items": "Sandık eşyalarını dahil et",
+        "include dropped items": "Düşürülen eşyaları dahil et",
+        "enable": "Aktifleştir",
+        "show amounts": "Miktarı göster",
+        "range": "Menzil",
+        "show distance": "Uzaklığı Göster"
+      },
+      "viewmodel": {
+        "enable": "Aktifleştir",
+        "depth": "Derinlik",
+        "vertical": "Dikey",
+        "horizontal": "Yatay"
+      },
+      "esp": {
+        "teams check": "Takım kontrolü",
+        "show tracers": "Çizgileri göster",
+        "wall check": "Duvar kontrolü",
+        "show health": "Canı göster",
+        "show boxes": "Kutuları göster",
+        "show names": "Adları göster",
+        "use display names": "Görünen adları kullan",
+        "enable": "Aktifleştir",
+        "show distance": "Uzaklığı göster"
+      },
+      "fov changer": {
+        "enable": "Aktifleştir",
+        "value": "Değer"
+      }
+    },
+    "player": {
+      "speed": {
+        "speed": "Hız",
+        "speed mode": "Hız Modu",
+        "jump mode": "Zıplama Modu",
+        "enable": "Aktifleştir",
+        "auto jump": "Otomatik zıplama",
+        "use additional speed": "Fazladan hızı kullan",
+        "always jump": "Her zaman zıpla"
+      },
+      "flight": {
+        "speed": "Hız",
+        "speed mode": "Hız Modu",
+        "keybind": "Anahtar",
+        "enable": "Aktifleştir",
+        "vertical speed": "Dikey hız",
+        "vertical mode": "Dikey mod",
+        "tp down": "Aşağı ışınlan"
+      },
+      "scaffold": {
+        "place cps": "CPS ayarla",
+        "keybind": "Anahtar",
+        "enable": "Aktifleştir",
+        "hand check": "El kontrolü",
+        "expand": "Genişlet",
+        "tower": "Kule",
+        "downwards": "Aşağı doğru",
+        "visualize switch": "Görselleştirme anahtarı",
+        "auto switch": "Otomatik Anahtar"
+      },
+      "auto sprint": {
+        "enable": "Aktifleştir"
+      }
+    },
+    "combat": {
+      "killaura": {
+        "teams check": "Takım kontrolü",
+        "visualize target": "Hedefi görselleştir",
+        "size": "Boyut",
+        "include npcs": "NPC'leri dahil et",
+        "enable": "Aktifleştir",
+        "hand check": "El kontrolü",
+        "custom animation": "Özel animasyon",
+        "include players": "Oyuncuları dahil et",
+        "swing time": "Sallama aralığı",
+        "show particles": "Partikülleri göster",
+        "wall check": "Duvar kontrolü",
+        "attack range": "Saldırma uzaklığı",
+        "visualize auto switch": "Otomatik anahtarı görselleştir",
+        "swing sword": "Kılıcı salla",
+        "targets per second": "Saniye başına hedef",
+        "texture": "Doku"
+      },
+      "aim assist": {
+        "teams check": "Takım kontrolü",
+        "aim speed": "Hedef hızı",
+        "include npcs": "NPC'leri dahil et",
+        "enable": "Aktifleştir",
+        "fov thickness": "FOV kalınlığı",
+        "include players": "Oyuncuları dahil et",
+        "fov radius": "FOV çapı",
+        "fov transparency": "FOV şeffaflığı",
+        "target part": "Hedef bölge",
+        "aim fov": "Hedef FOV'u",
+        "show fov": "FOV'u göster",
+        "fov sides": "FOV kenarları",
+        "wall check": "Duvar kontrolü",
+        "require mouse down": "Mouse indirmeyi zorunlu tut"
+      },
+      "no knockback": {
+        "enable": "Aktifleştir"
+      },
+      "reach": {
+        "enable": "Aktifleştir",
+        "range": "Menzil"
+      }
+    },
+    "minigames": {
+      "keep sprint": {
+        "enable": "Aktifleştir"
+      },
+      "no fall": {
+        "enable": "Aktifleştir"
+      }
+    },
+    "utility": {
+      "bow aura": {
+        "teams check": "Takım kontrolü",
+        "include npcs": "NPC'leri dahil et",
+        "enable": "Aktifleştir",
+        "range": "Menzil",
+        "exclude fast projectiles": "Hızlı Atılabilen Cisimleri Hariç Tut",
+        "exclude slow projectiles": "Yavaş Atılabilen Cisimleri Hariç Tut",
+        "visualize target": "Hedefi görselleştir",
+        "wall check": "Duvar kontrolü",
+        "include players": "Oyuncuları dahil et"
+      },
+      "loot aura": {
+        "visualize chest": "Sandığı görselleştir",
+        "radius": "Çap",
+        "loot delay": "Toplama aralığı",
+        "enable": "Aktifleştir",
+        "randomize order": "Rastgele sırala"
+      },
+      "auto eat": {
+        "ignore speed": "Hızı umursama",
+        "enable": "Aktifleştir",
+        "hand check": "El kontrolü",
+        "auto switch": "Otomatik Anahtar",
+        "notify after eaten": "Yedikten sonra bildir",
+        "delay": "Aralık",
+        "sync eat time": "Yeme süresiyle uyumlaştır",
+        "visualize switch": "Anahtarı görselleştir",
+        "ignore healing": "İyileşmeyi umursama"
+      }
+    },
+    "settings": {
+      "ui language": {
+        "text language": "Yazı Dili"
+      },
+      "ui settings": {
+        "highlight": "Vurgulama",
+        "line color": "Çizgi rengi",
+        "block color": "Blok rengi",
+        "stroke color": "Vuruş rengi",
+        "high stroke color": "Ağır vuruş rengi",
+        "mouse enter": "Mouse'yi gir",
+        "background color": "Arkaplan rengi",
+        "switch color": "Rengi değiştir",
+        "always show frame": "Herzaman kareleri göster",
+        "unload": "Kapat",
+        "block background color": "Blok arkaplan rengi",
+        "risky": "Riskli",
+        "drop color": "Düşürme rengi",
+        "toggle color": "Rengi Aç/Kapa"
+      }
+    },
+    "world": {
+      "long flight": {
+        "enable": "Aktifleştir",
+        "speed": "Hız",
+        "keybind": "Anahtar"
+      },
+      "fast pickup": {
+        "notify on pickup": "Alındığında bildir",
+        "range": "Menzil",
+        "delay": "Gecikme",
+        "enable": "Aktifleştir"
+      },
+      "bed nuker": {
+        "use priority tools": "Öncelikli eşyaları kullan",
+        "enable": "Aktifleştir",
+        "hand check": "El kontrolü",
+        "visualize switch": "Görselleştirme Anahtarı",
+        "range": "Menzil"
+      }
+    }
+  }
+}
