@@ -5,6 +5,26 @@
         "render": {
             "category_tr": "Визуал",
             "category_tr_info": "Настройки отображения ESP и графики",
+            "item esp": {
+                "item_esp_tr": "ESP предметов",
+                "item_esp_tr_info": "Отображение предметов на карте",
+                "item filter": "Фильтр предметов",
+                "show names": "Показ названий",
+                "include chest items": "Вкл. сундуки",
+                "include dropped items": "Вкл. дропнутые",
+                "enable": "Включить",
+                "show amounts": "Показ кол-ва",
+                "range": "Дистанция",
+                "show distance": "Показ дистанции"
+            },
+            "viewmodel": {
+                "viewmodel_tr": "View Model",
+                "viewmodel_tr_info": "Настройки отображения руки",
+                "enable": "Включить",
+                "depth": "Глубина",
+                "vertical": "Вертикаль",
+                "horizontal": "Горизонталь"
+            },
             "esp": {
                 "esp_tr": "ESP",
                 "esp_tr_info": "Отображение игроков через стены",
@@ -18,17 +38,11 @@
                 "enable": "Включить",
                 "show distance": "Показывать дистанцию"
             },
-            "item esp": {
-                "item_esp_tr": "ESP предметов",
-                "item_esp_tr_info": "Отображение предметов на карте",
-                "item filter": "Фильтр предметов",
-                "show names": "Показ названий",
-                "include chest items": "Вкл. сундуки",
-                "include dropped items": "Вкл. дропнутые",
+            "fov changer": {
+                "fov_changer_tr": "Смена FOV",
+                "fov_changer_tr_info": "Изменение поля зрения",
                 "enable": "Включить",
-                "show amounts": "Показ кол-ва",
-                "range": "Дистанция",
-                "show distance": "Показ дистанции"
+                "value": "Значение"
             }
         },
         "player": {
@@ -37,15 +51,16 @@
             "speed": {
                 "speed_tr": "Скорость",
                 "speed_tr_info": "Изменение скорости передвижения",
+                "speed": "Скорость",
                 "speed mode": "Режим скорости",
                 "jump mode": "Режим прыжка",
                 "enable": "Включить",
-                "speed": "Скорость",
                 "auto jump": "Автопрыжок",
+                "use additional speed": "Исп. доп. скорость",
                 "always jump": "Всегда прыгать"
             },
             "flight": {
-                "flight_tr": "Полёт",
+                "flight_tr": "Флай",
                 "flight_tr_info": "Возможность летать",
                 "speed": "Скорость",
                 "speed mode": "Режим скорости",
@@ -56,12 +71,12 @@
                 "tp down": "ТП вниз"
             },
             "scaffold": {
-                "place cps": "КПС плейса",
                 "scaffold_tr": "Scaffold",
                 "scaffold_tr_info": "Авто плейс блоков под собой",
+                "place cps": "КПС Плейса",
                 "keybind": "Клавиша",
                 "enable": "Включить",
-                "hand check": "Чекать руку",
+                "hand check": "Проверять на руку",
                 "expand": "Расширение",
                 "tower": "Башня",
                 "downwards": "Вниз",
@@ -75,29 +90,32 @@
             }
         },
         "combat": {
-            "category_tr": "Комбат",
+            "category_tr": "Боёвка",
             "category_tr_info": "Боевые функции и автоматизация",
             "killaura": {
-                "teams check": "Чекер команды",
                 "killaura_tr": "Киллаура",
                 "killaura_tr_info": "Автоатака ближайших врагов",
+                "teams check": "Чекер команды",
+                "visualize target": "Визуал цели",
+                "size": "Размер",
                 "include npcs": "Вкл. мобов",
                 "enable": "Включить",
-                "hand check": "Чекать руку",
+                "hand check": "Проверять на руку",
                 "custom animation": "Кастом анимация",
                 "include players": "Вкл. игроков",
-                "visualize target": "Визуал цели",
+                "swing time": "Время анимки",
+                "show particles": "Показ частиц",
                 "wall check": "Чекать на стену",
                 "attack range": "Дальность атаки",
                 "visualize auto switch": "Визуал автосмены",
                 "swing sword": "Анимка удара",
                 "targets per second": "Целей в секунду",
-                "swing time": "Время анимки"
+                "texture": "Текстура"
             },
             "aim assist": {
-                "teams check": "Чекер команды",
                 "aim_assist_tr": "Аим-ассистент",
                 "aim_assist_tr_info": "Помощь в прицеливании",
+                "teams check": "Чекер команды",
                 "aim speed": "Скорость аима",
                 "include npcs": "Вкл. мобов",
                 "enable": "Включить",
@@ -112,11 +130,16 @@
                 "wall check": "Чекер на стену",
                 "require mouse down": "Только при ЛКМ"
             },
+            "no knockback": {
+                "no_knockback_tr": "Нет отдачи",
+                "no_knockback_tr_info": "Отключение отбрасывания",
+                "enable": "Включить"
+            },
             "reach": {
-                "enable": "Включить",
-                "range": "Дистанция",
                 "reach_tr": "Reach",
-                "reach_tr_info": "Увеличение дистанции атаки"
+                "reach_tr_info": "Увеличение дистанции атаки",
+                "enable": "Включить",
+                "range": "Дистанция"
             }
         },
         "minigames": {
@@ -138,7 +161,16 @@
             "category_tr_info": "Вспомогательные функции",
             "bow aura": {
                 "bow_aura_tr": "Bow Aura",
-                "bow_aura_tr_info": "Авто-стрельба из лука"
+                "bow_aura_tr_info": "Авто-стрельба из лука",
+                "teams check": "Чекер команд",
+                "include npcs": "Вкл. мобов",
+                "enable": "Включить",
+                "range": "Дистанция",
+                "exclude fast projectiles": "Искл. быстрые снаряды",
+                "exclude slow projectiles": "Искл. медленные снаряды",
+                "visualize target": "Визуал цели",
+                "wall check": "Чекать на стену",
+                "include players": "Вкл. игроков"
             },
             "loot aura": {
                 "loot_aura_tr": "Loot Aura",
@@ -154,7 +186,7 @@
                 "auto_eat_tr_info": "Автоматическое поедание пищи",
                 "ignore speed": "Игнор скорости",
                 "enable": "Включить",
-                "hand check": "Чекер руки",
+                "hand check": "Проверять на руку",
                 "auto switch": "Автосмена",
                 "notify after eaten": "Увед. после еды",
                 "delay": "Задержка",
@@ -210,7 +242,12 @@
             },
             "bed nuker": {
                 "bed_nuker_tr": "Bed Nuker",
-                "bed_nuker_tr_info": "Автоматическое уничтожение кроватей"
+                "bed_nuker_tr_info": "Автоматическое уничтожение кроватей",
+                "use priority tools": "Исп. приоритетные инструменты",
+                "enable": "Включить",
+                "hand check": "Чекать руку",
+                "visualize switch": "Визуал смены",
+                "range": "Дистанция"
             }
         }
     }
