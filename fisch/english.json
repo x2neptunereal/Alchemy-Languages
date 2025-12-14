@@ -40,7 +40,8 @@
                 "auto sell all fish": "Auto Sell All Fish",
                 "auto sell hold fish": "Auto Sell Hold Fish",
                 "sell all fish": "[ 💵 ] Sell All Fish",
-                "sell hold fish": "[ 💵 ] Sell Hold Fish"
+                "sell hold fish": "[ 💵 ] Sell Hold Fish",
+                "auto sell all fischmas": "Auto Sell All Fischmas"
             },
             "favourite": {
                 "selected fish": "[ 🐟 ] Select Fish",
