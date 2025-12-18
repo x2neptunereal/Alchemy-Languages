@@ -1,0 +1,111 @@
+{
+    "language": "TH",
+    "translator": "x2Neptune",
+    "data": {
+        "other": {
+            "potions": {
+                "select potions": "เลือกน้ำยา",
+                "auto use potions": "ใช้น้ำยาอัตโนมัติ"
+            },
+            "shop": {
+                "buy selected pickaxe": "ซื้อที่ขุดที่เลือก",
+                "buy selected potions": "ซื้อน้ำยาที่เลือก",
+                "select pickaxe": "เลือกที่ขุด",
+                "select potions": "เลือกน้ำยา"
+            },
+            "players": {
+                "speed": "ความเร็ว",
+                "speed boost": "เพิ่มความเร็ว"
+            },
+            "teleport": {
+                "teleport to world 2": "วาร์ปไปโลกที่ 2",
+                "teleport to world 1": "วาร์ปไปโลกที่ 1",
+                "teleport to selected location": "วาร์ปไปยังตำแหน่งที่เลือก",
+                "select location": "เลือกตำแหน่ง"
+            }
+        },
+        "general": {
+            "avoid": {
+                "hiding height": "ความสูงในการมุดดิน",
+                "avoid player": "หลบหนีผู้เล่น",
+                "avoid range": "ระยะห่างสำหรับหลบหนี"
+            },
+            "mining": {
+                "select rocks": "เลือกหิน",
+                "select ores": "เลือกแร่เฉพาะ",
+                "auto mine": "ขุดอัตโนมัติ",
+                "auto use best pickaxe": "ใช้ที่ขุดที่ดีที่สุดอัตโนมัติ",
+                "shiny first": "ขุดหินแวววาวก่อน",
+                "auto mine ores": "ขุดเฉพาะแร่อัตโนมัติ"
+            },
+            "combat": {
+                "select mobs": "เลือกมอนสเตอร์",
+                "auto fight mobs": "ฟาร์มมอนสเตอร์อัตโนมัติ"
+            },
+            "custom": {
+                "desync mob type": "ประเภท Desync Mob",
+                "desync & desync mob": "Desync & Desync Mob",
+                "tween speed": "ความเร็วในการวาป",
+                "mining hip height": "ความสูงตอนขุด",
+                "farm position": "ตำแหน่งการฟาร์ม"
+            }
+        },
+        "automatic": {
+            "race": {
+                "auto roll race": "สุ่มเผ่าอัตโนมัติ",
+                "select race": "เลือกเผ่า"
+            },
+            "sell": {
+                "select materials": "เลือกวัสดุ",
+                "select runes": "เลือกรูน",
+                "select weapon": "เลือกอาวุธ",
+                "select ores": "เลือกแร่",
+                "auto sell": "ขายอัตโนมัติ",
+                "sell delay": "ดีเลย์เวลาการขาย"
+            },
+            "enchance": {
+                "select item": "เลือกไอเทม",
+                "auto enchance item": "เสริมพลังไอเทมอัตโนมัติ",
+                "stop at level": "หยุดเมื่อเลเวล"
+            },
+            "forge": {
+                "forge control delay": "ดีเลย์ควบคุมการตีอาวุธ",
+                "auto forge (instant)": "ตีอาวุธอัตโนมัติ (Instant)"
+            }
+        },
+        "visual": {
+            "local player": {
+                "infinity aura": "เพิ่มออร่า"
+            },
+            "ambient": {
+                "full bright": "เพิ่มความสว่าง"
+            },
+            "esp utility": {
+                "esp rocks": "ESP หิน",
+                "esp players": "ESP ผู้เล่น",
+                "esp monsters": "ESP มอนสเตอร์"
+            }
+        },
+        "settings": {
+            "ui theme": {
+                "highlight": "ไฮไลต์",
+                "block color": "สีบล็อก",
+                "line color": "สีเส้น",
+                "high stroke color": "สีเส้นขอบเด่น",
+                "mouse enter": "เมื่อเมาส์ชี้",
+                "background color": "สีพื้นหลัง",
+                "switch color": "สีสวิตช์",
+                "alway show frame": "แสดงเฟรมตลอด",
+                "toggle color": "สีปุ่มสลับ",
+                "stroke color": "สีเส้นขอบ",
+                "risky": "เสี่ยง",
+                "drop color": "สีดรอป",
+                "block background color": "สีพื้นหลังบล็อก"
+            },
+            "ui language": {
+                "text language": "ภาษาข้อความ"
+            }
+        }
+    }
+
+}
