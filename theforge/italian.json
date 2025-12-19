@@ -1,0 +1,110 @@
+{
+    "language": "IT",
+    "translator": "spikkio_",
+    "data": {
+        "other": {
+            "potions": {
+                "select potions": "Selezioms Pozioni",
+                "auto use potions": "Auto Usa Pozioni"
+            },
+            "shop": {
+                "buy selected pickaxe": "Compra Piccone Selezionato",
+                "buy selected potions": "Compra Pozioni Selezionate",
+                "select pickaxe": "Seleziona Piccone",
+                "select potions": "Seleziona Pozioni"
+            },
+            "players": {
+                "speed": "Velocità",
+                "speed boost": "Potenziamento Di Velocità"
+            },
+            "teleport": {
+                "teleport to world 2": "Teletrasporto Al Mondo 2",
+                "teleport to world 1": "Teletrasporto Al Mondo 1",
+                "teleport to selected location": "Teletrasporto Alla Zona Scelta",
+                "select location": "Seleziona Zona"
+            }
+        },
+        "general": {
+            "avoid": {
+                "hiding height": "Altezza Di Nascondiglio",
+                "avoid player": "Evita Giocatori",
+                "avoid range": "Evita Raggio"
+            },
+            "mining": {
+                "select rocks": "Seleziona Rocce",
+                "select ores": "Seleziona Minerali",
+                "auto mine": "Auto Mina",
+                "auto use best pickaxe": "Auto Usa Miglior Piccone",
+                "shiny first": "Prima Gli Shiny",
+                "auto mine ores": "Auto Mina Minerali"
+            },
+            "combat": {
+                "select mobs": "Seleziona Mob",
+                "auto fight mobs": "Auto Combatti Mob"
+            },
+            "custom": {
+                "desync mob type": "Tipo Di Desync Mob",
+                "desync & desync mob": "Desync & Desync Mob",
+                "tween speed": "Velocità Di Tween",
+                "mining hip height": "Altezza Per Minare",
+                "farm position": "Posizione Di Farm"
+            }
+        },
+        "automatic": {
+            "race": {
+                "auto roll race": "Auto Rolla Razza",
+                "select race": "Seleziona Razza"
+            },
+            "sell": {
+                "select materials": "Seleziona Materiali",
+                "select runes": "Seleziona Rune",
+                "select weapon": "Seleziona Armi",
+                "select ores": "Seleziona Minerali",
+                "auto sell": "Auto Vendi",
+                "sell delay": "Ritardo Di Vendita"
+            },
+            "enchance": {
+                "select item": "Seleziona Oggetto",
+                "auto enchance item": "Auto Incanta Oggetto",
+                "stop at level": "Fermati A Livello"
+            },
+            "forge": {
+                "forge control delay": "Ritardo Di Controllo Forgia",
+                "auto forge (instant)": "Auto Forgia (Istantaneo)"
+            }
+        },
+        "visual": {
+            "local player": {
+                "infinity aura": "Aura Infinita"
+            },
+            "ambient": {
+                "full bright": "Tutto Illuminato"
+            },
+                "esp utility": {
+                "esp rocks": "ESP Rocce",
+                "esp players": "ESP Giocatori",
+                "esp monsters": "ESP Mostri"
+            }
+        },
+        "settings": {
+            "ui theme": {
+                "highlight": "Evidenzia",
+                "block color": "Colore Blocco",
+                "line color": "Colore Linea",
+                "high stroke color": "Colore Colpo Alto",
+                "mouse enter": "Enter Mouse",
+                "background color": "Colore Sottofondo",
+                "switch color": "Colore Interruttore",
+                "alway show frame": "Mostra Sempre Frame",
+                "toggle color": "Colore Pulsante",
+                "stroke color": "Colore Colpo",
+                "risky": "Rischioso",
+                "drop color": "Colore Goccia",
+                "block background color": "Blocca Colore Sottofondo"
+            },
+            "ui language": {
+                "text language": "Lingua Di Testo"
+            }
+        }
+    }
+}
