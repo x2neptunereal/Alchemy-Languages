@@ -1,0 +1,110 @@
+{
+    "language": "ES",
+    "translator": "deathgod0784",
+    "data": {
+        "other": {
+            "potions": {
+                "select potions": "Seleccionar Pociones",
+                "auto use potions": "Auto Usar Pociones"
+            },
+            "shop": {
+                "buy selected pickaxe": "Comprar Pico Seleccionado",
+                "buy selected potions": "Comprar Pociones Seleccionadas",
+                "select pickaxe": "Seleccionar Pico",
+                "select potions": "Seleccionar Pociones"
+            },
+            "players": {
+                "speed": "Velocidad",
+                "speed boost": "Boost de Velocidad"
+            },
+            "teleport": {
+                "teleport to world 2": "Tp al Mundo 2",
+                "teleport to world 1": "Tp al Mundo 1",
+                "teleport to selected location": "Tp a la Ubicación Seleccionada",
+                "select location": "Seleccionar Ubicación"
+            }
+        },
+        "general": {
+            "avoid": {
+                "hiding height": "Altura de Ocultamiento",
+                "avoid player": "Evitar Jugadores",
+                "avoid range": "Rango de Evasión"
+            },
+            "mining": {
+                "select rocks": "Seleccionar Rocas",
+                "select ores": "Seleccionar Minerales",
+                "auto mine": "Minería Automática",
+                "auto use best pickaxe": "Auto Usar el Mejor Pico",
+                "shiny first": "Shiny Primero",
+                "auto mine ores": "Auto Minar Minerales"
+            },
+            "combat": {
+                "select mobs": "Seleccionar Enemigos",
+                "auto fight mobs": "Auto Combatir Enemigos"
+            },
+            "custom": {
+                "desync mob type": "Tipo de Enemigo Desincronizado",
+                "desync & desync mob": "Desincronizar Enemigos",
+                "tween speed": "Velocidad de Desplazamiento",
+                "mining hip height": "Altura de Minar",
+                "farm position": "Posición de Farmeo"
+            }
+        },
+        "automatic": {
+            "race": {
+                "auto roll race": "Auto Girar Raza",
+                "select race": "Seleccionar Raza"
+            },
+            "sell": {
+                "select materials": "Seleccionar Materiales",
+                "select runes": "Seleccionar Runas",
+                "select weapon": "Seleccionar Arma",
+                "select ores": "Seleccionar Minerales",
+                "auto sell": "Auto Vender",
+                "sell delay": "Retraso de Venta"
+            },
+            "enchance": {
+                "select item": "Seleccionar Objeto",
+                "auto enchance item": "Auto Mejorar Objeto",
+                "stop at level": "Detener en el Nivel"
+            },
+            "forge": {
+                "forge control delay": "Retraso de Control de Forjar",
+                "auto forge (instant)": "Auto Forjar (Instantáneo)"
+            }
+        },
+        "visual": {
+            "local player": {
+                "infinity aura": "Aura Infinita"
+            },
+            "ambient": {
+                "full bright": "Iluminación Total"
+            },
+            "esp utility": {
+                "esp rocks": "ESP de Rocas",
+                "esp players": "ESP de Jugadores",
+                "esp monsters": "ESP de Monstruos"
+            }
+        },
+        "settings": {
+            "ui theme": {
+                "highlight": "Resaltado",
+                "block color": "Color de Bloque",
+                "line color": "Color de Línea",
+                "high stroke color": "Color de Trazo Destacado",
+                "mouse enter": "Entrada del Cursor",
+                "background color": "Color de Fondo",
+                "switch color": "Color de Interruptor",
+                "alway show frame": "Mostrar Marco Siempre",
+                "toggle color": "Color de Alternancia",
+                "stroke color": "Color de Trazo",
+                "risky": "Riesgoso",
+                "drop color": "Color de Desplegable",
+                "block background color": "Color de Fondo del Bloque"
+            },
+            "ui language": {
+                "text language": "Idioma del Texto"
+            }
+        }
+    }
+}
