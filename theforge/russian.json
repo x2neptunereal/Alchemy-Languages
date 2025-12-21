@@ -1,0 +1,110 @@
+{
+    "language": "RU",
+    "translator": "zaminationru",
+    "data": {
+        "other": {
+            "potions": {
+                "select potions": "Select Potions",
+                "auto use potions": "Auto Use Potions"
+            },
+            "shop": {
+                "buy selected pickaxe": "Buy Selected Pickaxe",
+                "buy selected potions": "Buy Selected Potions",
+                "select pickaxe": "Select Pickaxe",
+                "select potions": "Select Potions"
+            },
+            "players": {
+                "speed": "Speed",
+                "speed boost": "Speed Boost"
+            },
+            "teleport": {
+                "teleport to world 2": "Teleport to World 2",
+                "teleport to world 1": "Teleport to World 1",
+                "teleport to selected location": "Teleport to Selected Location",
+                "select location": "Select Location"
+            }
+        },
+        "general": {
+            "avoid": {
+                "hiding height": "Hiding Height",
+                "avoid player": "Avoid Player",
+                "avoid range": "Avoid Range"
+            },
+            "mining": {
+                "select rocks": "Select Rocks",
+                "select ores": "Select Ores",
+                "auto mine": "Auto Mine",
+                "auto use best pickaxe": "Auto Use Best Pickaxe",
+                "shiny first": "Shiny First",
+                "auto mine ores": "Auto Mine Ores"
+            },
+            "combat": {
+                "select mobs": "Select Mobs",
+                "auto fight mobs": "Auto Fight Mobs"
+            },
+            "custom": {
+                "desync mob type": "Desync Mob Type",
+                "desync & desync mob": "Desync & Desync Mob",
+                "tween speed": "Tween Speed",
+                "mining hip height": "Mining Hip Height",
+                "farm position": "Farm Position"
+            }
+        },
+        "automatic": {
+            "race": {
+                "auto roll race": "Auto Roll Race",
+                "select race": "Select Race"
+            },
+            "sell": {
+                "select materials": "Select Materials",
+                "select runes": "Select Runes",
+                "select weapon": "Select Weapon",
+                "select ores": "Select Ores",
+                "auto sell": "Auto Sell",
+                "sell delay": "Sell Delay"
+            },
+            "enchance": {
+                "select item": "Select Item",
+                "auto enchance item": "Auto Enchance Item",
+                "stop at level": "Stop At Level"
+            },
+            "forge": {
+                "forge control delay": "Forge Control Delay",
+                "auto forge (instant)": "Auto Forge (Instant)"
+            }
+        },
+        "visual": {
+            "local player": {
+                "infinity aura": "Infinity Aura"
+            },
+            "ambient": {
+                "full bright": "Full Bright"
+            },
+                "esp utility": {
+                "esp rocks": "ESP Rocks",
+                "esp players": "ESP Players",
+                "esp monsters": "ESP Monsters"
+            }
+        },
+        "settings": {
+            "ui theme": {
+                "highlight": "Highlight",
+                "block color": "Block Color",
+                "line color": "Line Color",
+                "high stroke color": "High Stroke Color",
+                "mouse enter": "Mouse Enter",
+                "background color": "Background Color",
+                "switch color": "Switch Color",
+                "alway show frame": "Alway Show Frame",
+                "toggle color": "Toggle Color",
+                "stroke color": "Stroke Color",
+                "risky": "Risky",
+                "drop color": "Drop Color",
+                "block background color": "Block Background Color"
+            },
+            "ui language": {
+                "text language": "Text Language"
+            }
+        }
+    }
+}
