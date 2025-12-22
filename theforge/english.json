@@ -1,109 +1,109 @@
 {
-    "language": "RU",
-    "translator": "zaminationru",
+    "language": "EN",
+    "translator": "none",
     "data": {
         "other": {
             "potions": {
-                "select potions": "Выбрать зелья",
-                "auto use potions": "Авто-использование зелий"
+                "select potions": "Select Potions",
+                "auto use potions": "Auto Use Potions"
             },
             "shop": {
-                "buy selected pickaxe": "Купить выбранную кирку",
-                "buy selected potions": "Купить выбранные зелья",
-                "select pickaxe": "Выбрать кирку",
-                "select potions": "Выбрать зелья"
+                "buy selected pickaxe": "Buy Selected Pickaxe",
+                "buy selected potions": "Buy Selected Potions",
+                "select pickaxe": "Select Pickaxe",
+                "select potions": "Select Potions"
             },
             "players": {
-                "speed": "Скорость",
-                "speed boost": "Ускорение"
+                "speed": "Speed",
+                "speed boost": "Speed Boost"
             },
             "teleport": {
-                "teleport to world 2": "ТП в Мир 2",
-                "teleport to world 1": "ТП в Мир 1",
-                "teleport to selected location": "ТП в выбранную локацию",
-                "select location": "Выбрать локацию"
+                "teleport to world 2": "Teleport to World 2",
+                "teleport to world 1": "Teleport to World 1",
+                "teleport to selected location": "Teleport to Selected Location",
+                "select location": "Select Location"
             }
         },
         "general": {
             "avoid": {
-                "hiding height": "Высота скрытия",
-                "avoid player": "Избегать игроков",
-                "avoid range": "Радиус избегания"
+                "hiding height": "Hiding Height",
+                "avoid player": "Avoid Player",
+                "avoid range": "Avoid Range"
             },
             "mining": {
-                "select rocks": "Выбрать камни",
-                "select ores": "Выбрать руды",
-                "auto mine": "Авто-добыча",
-                "auto use best pickaxe": "Использовать лучшую кирку",
-                "shiny first": "Блестящие в приоритете",
-                "auto mine ores": "Авто-добыча руд"
+                "select rocks": "Select Rocks",
+                "select ores": "Select Ores",
+                "auto mine": "Auto Mine",
+                "auto use best pickaxe": "Auto Use Best Pickaxe",
+                "shiny first": "Shiny First",
+                "auto mine ores": "Auto Mine Ores"
             },
             "combat": {
-                "select mobs": "Выбрать мобов",
-                "auto fight mobs": "Авто-атака мобов"
+                "select mobs": "Select Mobs",
+                "auto fight mobs": "Auto Fight Mobs"
             },
             "custom": {
-                "desync mob type": "Тип десинхрон моба",
-                "desync & desync mob": "Десинхрон и десинхрон моб",
-                "tween speed": "Скорость твина",
-                "mining hip height": "Высота бедра при добыче",
-                "farm position": "Позиция фарма"
+                "desync mob type": "Desync Mob Type",
+                "desync & desync mob": "Desync & Desync Mob",
+                "tween speed": "Tween Speed",
+                "mining hip height": "Mining Hip Height",
+                "farm position": "Farm Position"
             }
         },
         "automatic": {
             "race": {
-                "auto roll race": "Авто-выбор расы",
-                "select race": "Выбрать расу"
+                "auto roll race": "Auto Roll Race",
+                "select race": "Select Race"
             },
             "sell": {
-                "select materials": "Выбрать материалы",
-                "select runes": "Выбрать руны",
-                "select weapon": "Выбрать оружие",
-                "select ores": "Выбрать руды",
-                "auto sell": "Автопродажа",
-                "sell delay": "Задержка продажи"
+                "select materials": "Select Materials",
+                "select runes": "Select Runes",
+                "select weapon": "Select Weapon",
+                "select ores": "Select Ores",
+                "auto sell": "Auto Sell",
+                "sell delay": "Sell Delay"
             },
             "enchance": {
-                "select item": "Выбрать предмет",
-                "auto enchance item": "Авто-улучшение предмета",
-                "stop at level": "Остановить на уровне"
+                "select item": "Select Item",
+                "auto enchance item": "Auto Enchance Item",
+                "stop at level": "Stop At Level"
             },
             "forge": {
-                "forge control delay": "Задержка управления кузницей",
-                "auto forge (instant)": "Авто-ковка (мгновенно)"
+                "forge control delay": "Forge Control Delay",
+                "auto forge (instant)": "Auto Forge (Instant)"
             }
         },
         "visual": {
             "local player": {
-                "infinity aura": "Бесконечная аура"
+                "infinity aura": "Infinity Aura"
             },
             "ambient": {
-                "full bright": "Полная яркость"
+                "full bright": "Full Bright"
             },
-            "esp utility": {
-                "esp rocks": "ESP Камней",
-                "esp players": "ESP Игроков",
-                "esp monsters": "ESP Монстров"
+                "esp utility": {
+                "esp rocks": "ESP Rocks",
+                "esp players": "ESP Players",
+                "esp monsters": "ESP Monsters"
             }
         },
         "settings": {
             "ui theme": {
-                "highlight": "Подсветка",
-                "block color": "Цвет блока",
-                "line color": "Цвет линии",
-                "high stroke color": "Цвет верх. обводки",
-                "mouse enter": "При наведении",
-                "background color": "Цвет фона",
-                "switch color": "Цвет переключателя",
-                "alway show frame": "Всегда показ. рамку",
-                "toggle color": "Цвет тогглов",
-                "stroke color": "Цвет обводки",
-                "risky": "Рисковый",
-                "drop color": "Цвет дропа",
-                "block background color": "Цвет фона блока"
+                "highlight": "Highlight",
+                "block color": "Block Color",
+                "line color": "Line Color",
+                "high stroke color": "High Stroke Color",
+                "mouse enter": "Mouse Enter",
+                "background color": "Background Color",
+                "switch color": "Switch Color",
+                "alway show frame": "Alway Show Frame",
+                "toggle color": "Toggle Color",
+                "stroke color": "Stroke Color",
+                "risky": "Risky",
+                "drop color": "Drop Color",
+                "block background color": "Block Background Color"
             },
             "ui language": {
-                "text language": "Язык текста"
+                "text language": "Text Language"
             }
         }
     }
