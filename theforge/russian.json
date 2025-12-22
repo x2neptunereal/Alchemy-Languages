@@ -52,7 +52,7 @@
         },
         "automatic": {
             "race": {
-                "auto roll race": "Авто-выбор расы",
+                "auto roll race": "Авто-ролл расы",
                 "select race": "Выбрать расу"
             },
             "sell": {
