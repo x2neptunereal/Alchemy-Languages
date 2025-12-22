@@ -47,7 +47,8 @@
                 "desync & desync mob": "Desync & Desync Mob",
                 "tween speed": "ความเร็วในการวาป",
                 "mining hip height": "ความสูงตอนขุด",
-                "farm position": "ตำแหน่งการฟาร์ม"
+                "farm position": "ตำแหน่งการฟาร์ม",
+                "teleport method": "วิธีการวาร์ป"
             }
         },
         "automatic": {
