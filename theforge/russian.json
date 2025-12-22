@@ -3,31 +3,21 @@
     "translator": "zaminationru",
     "data": {
         "other": {
-            "category_tr": "Прочее",
-            "category_tr_info": "Разные утилиты и настройки",
             "potions": {
-                "potions_tr": "Зелья",
-                "potions_tr_info": "Управление зельями",
                 "select potions": "Выбрать зелья",
                 "auto use potions": "Авто-использование зелий"
             },
             "shop": {
-                "shop_tr": "Магазин",
-                "shop_tr_info": "Покупка инструментов и зелий",
                 "buy selected pickaxe": "Купить выбранную кирку",
                 "buy selected potions": "Купить выбранные зелья",
                 "select pickaxe": "Выбрать кирку",
                 "select potions": "Выбрать зелья"
             },
             "players": {
-                "players_tr": "Игроки",
-                "players_tr_info": "Настройки, связанные с игроками",
                 "speed": "Скорость",
                 "speed boost": "Ускорение"
             },
             "teleport": {
-                "teleport_tr": "Телепорт",
-                "teleport_tr_info": "Быстрое перемещение по мирам",
                 "teleport to world 2": "ТП в Мир 2",
                 "teleport to world 1": "ТП в Мир 1",
                 "teleport to selected location": "ТП в выбранную локацию",
@@ -35,18 +25,12 @@
             }
         },
         "general": {
-            "category_tr": "Основное",
-            "category_tr_info": "Основные функции фарма и боёвки",
             "avoid": {
-                "avoid_tr": "Избегать игроков",
-                "avoid_tr_info": "Настройки уклонения от игроков",
                 "hiding height": "Высота скрытия",
                 "avoid player": "Избегать игроков",
                 "avoid range": "Радиус избегания"
             },
             "mining": {
-                "mining_tr": "Добыча",
-                "mining_tr_info": "Автоматическая добыча ресурсов",
                 "select rocks": "Выбрать камни",
                 "select ores": "Выбрать руды",
                 "auto mine": "Авто-добыча",
@@ -55,14 +39,10 @@
                 "auto mine ores": "Авто-добыча руд"
             },
             "combat": {
-                "combat_tr": "Боёвка",
-                "combat_tr_info": "Боевые функции",
                 "select mobs": "Выбрать мобов",
                 "auto fight mobs": "Авто-атака мобов"
             },
             "custom": {
-                "custom_tr": "Кастомные настройки",
-                "custom_tr_info": "Расширенные/экспериментальные настройки",
                 "desync mob type": "Тип десинхрон моба",
                 "desync & desync mob": "Десинхрон и десинхрон моб",
                 "tween speed": "Скорость твина",
@@ -71,17 +51,11 @@
             }
         },
         "automatic": {
-            "category_tr": "Автоматизация",
-            "category_tr_info": "Полная автоматизация процессов",
             "race": {
-                "race_tr": "Race",
-                "race_tr_info": "Автоматизация гонок",
-                "auto roll race": "Авто-рол race",
-                "select race": "Выбрать race"
+                "auto roll race": "Авто-выбор расы",
+                "select race": "Выбрать расу"
             },
             "sell": {
-                "sell_tr": "Продажа",
-                "sell_tr_info": "Автопродажа предметов",
                 "select materials": "Выбрать материалы",
                 "select runes": "Выбрать руны",
                 "select weapon": "Выбрать оружие",
@@ -90,46 +64,30 @@
                 "sell delay": "Задержка продажи"
             },
             "enchance": {
-                "enchance_tr": "Улучшение",
-                "enchance_tr_info": "Автоулучшение предметов",
                 "select item": "Выбрать предмет",
                 "auto enchance item": "Авто-улучшение предмета",
                 "stop at level": "Остановить на уровне"
             },
             "forge": {
-                "forge_tr": "Кузница",
-                "forge_tr_info": "Управление кузницей",
                 "forge control delay": "Задержка управления кузницей",
                 "auto forge (instant)": "Авто-ковка (мгновенно)"
             }
         },
         "visual": {
-            "category_tr": "Визуал",
-            "category_tr_info": "Визуальные эффекты и ESP",
             "local player": {
-                "local_player_tr": "Локальный игрок",
-                "local_player_tr_info": "Эффекты для вашего персонажа",
                 "infinity aura": "Бесконечная аура"
             },
             "ambient": {
-                "ambient_tr": "Окружение",
-                "ambient_tr_info": "Настройки освещения и графики",
                 "full bright": "Полная яркость"
             },
             "esp utility": {
-                "esp_utility_tr": "ESP Утилиты",
-                "esp_utility_tr_info": "Отображение объектов через стены",
                 "esp rocks": "ESP Камней",
                 "esp players": "ESP Игроков",
                 "esp monsters": "ESP Монстров"
             }
         },
         "settings": {
-            "category_tr": "Настройки",
-            "category_tr_info": "Настройки интерфейса и языка",
             "ui theme": {
-                "ui_theme_tr": "Тема UI",
-                "ui_theme_tr_info": "Настройка внешнего вида интерфейса",
                 "highlight": "Подсветка",
                 "block color": "Цвет блока",
                 "line color": "Цвет линии",
@@ -145,8 +103,6 @@
                 "block background color": "Цвет фона блока"
             },
             "ui language": {
-                "ui_language_tr": "Язык интерфейса",
-                "ui_language_tr_info": "Настройки языка",
                 "text language": "Язык текста"
             }
         }
