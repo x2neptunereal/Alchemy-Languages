@@ -47,7 +47,8 @@
                 "desync & desync mob": "Desync & Desync Mob",
                 "tween speed": "Tween Speed",
                 "mining hip height": "Mining Hip Height",
-                "farm position": "Farm Position"
+                "farm position": "Farm Position",
+                "teleport method": "Teleport Method"
             }
         },
         "automatic": {
