@@ -15,27 +15,28 @@
             },
             "players": {
                 "speed": "Velocidad",
-                "speed boost": "Boost de Velocidad"
+                "speed boost": "Impulso de Velocidad"
             },
             "teleport": {
+                "teleport to world 3": "Tp al Mundo 3",
                 "teleport to world 2": "Tp al Mundo 2",
                 "teleport to world 1": "Tp al Mundo 1",
-                "teleport to selected location": "Tp a la Ubicación Seleccionada",
+                "teleport to selected location": "Tp a Ubicación Seleccionada",
                 "select location": "Seleccionar Ubicación"
             }
         },
         "general": {
             "avoid": {
-                "hiding height": "Altura de Ocultamiento",
-                "avoid player": "Evitar Jugadores",
-                "avoid range": "Rango de Evasión"
+                "hiding height": "Altura de Ocultación",
+                "avoid player": "Evitar Jugador",
+                "avoid range": "Rango de Evitación"
             },
             "mining": {
                 "select rocks": "Seleccionar Rocas",
                 "select ores": "Seleccionar Minerales",
-                "auto mine": "Minería Automática",
-                "auto use best pickaxe": "Auto Usar el Mejor Pico",
-                "shiny first": "Shiny Primero",
+                "auto mine": "Auto Minar",
+                "auto use best pickaxe": "Auto Usar Mejor Pico",
+                "shiny first": "Brillantes Primero",
                 "auto mine ores": "Auto Minar Minerales"
             },
             "combat": {
@@ -43,11 +44,12 @@
                 "auto fight mobs": "Auto Combatir Enemigos"
             },
             "custom": {
-                "desync mob type": "Tipo de Enemigo Desincronizado",
-                "desync & desync mob": "Desincronizar Enemigos",
+                "desync mob type": "Tipo de Desync del Enemigo",
+                "desync & desync mob": "Desync y Desync del Enemigo",
                 "tween speed": "Velocidad de Desplazamiento",
-                "mining hip height": "Altura de Minar",
-                "farm position": "Posición de Farmeo"
+                "mining hip height": "Altura de Minado",
+                "farm position": "Posición de Farm",
+                "teleport method": "Método de Tp"
             }
         },
         "automatic": {
@@ -66,10 +68,10 @@
             "enchance": {
                 "select item": "Seleccionar Objeto",
                 "auto enchance item": "Auto Mejorar Objeto",
-                "stop at level": "Detener en el Nivel"
+                "stop at level": "Detener en Nivel"
             },
             "forge": {
-                "forge control delay": "Retraso de Control de Forjar",
+                "forge control delay": "Retraso de Control de Forja",
                 "auto forge (instant)": "Auto Forjar (Instantáneo)"
             }
         },
@@ -78,28 +80,28 @@
                 "infinity aura": "Aura Infinita"
             },
             "ambient": {
-                "full bright": "Iluminación Total"
+                "full bright": "Brillo Máximo"
             },
             "esp utility": {
-                "esp rocks": "ESP de Rocas",
-                "esp players": "ESP de Jugadores",
-                "esp monsters": "ESP de Monstruos"
+                "esp rocks": "ESP Rocas",
+                "esp players": "ESP Jugadores",
+                "esp monsters": "ESP Monstruos"
             }
         },
         "settings": {
             "ui theme": {
                 "highlight": "Resaltado",
                 "block color": "Color de Bloque",
-                "line color": "Color de Línea",
-                "high stroke color": "Color de Trazo Destacado",
-                "mouse enter": "Entrada del Cursor",
+                "line color": "Color de LÃ­nea",
+                "high stroke color": "Color de Borde Alto",
+                "mouse enter": "Entrada del Ratón",
                 "background color": "Color de Fondo",
                 "switch color": "Color de Interruptor",
                 "alway show frame": "Mostrar Marco Siempre",
-                "toggle color": "Color de Alternancia",
-                "stroke color": "Color de Trazo",
+                "toggle color": "Color de Toggle",
+                "stroke color": "Color de Borde",
                 "risky": "Riesgoso",
-                "drop color": "Color de Desplegable",
+                "drop color": "Color de Drop",
                 "block background color": "Color de Fondo del Bloque"
             },
             "ui language": {
