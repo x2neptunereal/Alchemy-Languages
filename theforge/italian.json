@@ -48,6 +48,7 @@
                 "tween speed": "Velocità Di Tween",
                 "mining hip height": "Altezza Per Minare",
                 "farm position": "Posizione Di Farm"
+                "teleport method": "Metodo Di TP"
             }
         },
         "automatic": {
