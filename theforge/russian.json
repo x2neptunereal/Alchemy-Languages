@@ -1,110 +1,112 @@
 {
-    "language": "RU",
-    "translator": "zaminationru",
-    "data": {
-        "other": {
-            "potions": {
-                "select potions": "Выбрать зелья",
-                "auto use potions": "Авто-использование зелий"
-            },
-            "shop": {
-                "buy selected pickaxe": "Купить выбранную кирку",
-                "buy selected potions": "Купить выбранные зелья",
-                "select pickaxe": "Выбрать кирку",
-                "select potions": "Выбрать зелья"
-            },
-            "players": {
-                "speed": "Скорость",
-                "speed boost": "Ускорение"
-            },
-            "teleport": {
-                "teleport to world 2": "ТП в Мир 2",
-                "teleport to world 1": "ТП в Мир 1",
-                "teleport to selected location": "ТП в выбранную локацию",
-                "select location": "Выбрать локацию"
-            }
-        },
-        "general": {
-            "avoid": {
-                "hiding height": "Высота скрытия",
-                "avoid player": "Избегать игроков",
-                "avoid range": "Радиус избегания"
-            },
-            "mining": {
-                "select rocks": "Выбрать камни",
-                "select ores": "Выбрать руды",
-                "auto mine": "Авто-добыча",
-                "auto use best pickaxe": "Использовать лучшую кирку",
-                "shiny first": "Блестящие в приоритете",
-                "auto mine ores": "Авто-добыча руд"
-            },
-            "combat": {
-                "select mobs": "Выбрать мобов",
-                "auto fight mobs": "Авто-атака мобов"
-            },
-            "custom": {
-                "desync mob type": "Тип десинхрон моба",
-                "desync & desync mob": "Десинхрон и десинхрон моб",
-                "tween speed": "Скорость твина",
-                "mining hip height": "Высота бедра при добыче",
-                "farm position": "Позиция фарма"
-            }
-        },
-        "automatic": {
-            "race": {
-                "auto roll race": "Авто-ролл расы",
-                "select race": "Выбрать расу"
-            },
-            "sell": {
-                "select materials": "Выбрать материалы",
-                "select runes": "Выбрать руны",
-                "select weapon": "Выбрать оружие",
-                "select ores": "Выбрать руды",
-                "auto sell": "Автопродажа",
-                "sell delay": "Задержка продажи"
-            },
-            "enchance": {
-                "select item": "Выбрать предмет",
-                "auto enchance item": "Авто-улучшение предмета",
-                "stop at level": "Остановить на уровне"
-            },
-            "forge": {
-                "forge control delay": "Задержка управления кузницей",
-                "auto forge (instant)": "Авто-ковка (мгновенно)"
-            }
-        },
-        "visual": {
-            "local player": {
-                "infinity aura": "Бесконечная аура"
-            },
-            "ambient": {
-                "full bright": "Полная яркость"
-            },
-            "esp utility": {
-                "esp rocks": "ESP Камней",
-                "esp players": "ESP Игроков",
-                "esp monsters": "ESP Монстров"
-            }
-        },
-        "settings": {
-            "ui theme": {
-                "highlight": "Подсветка",
-                "block color": "Цвет блока",
-                "line color": "Цвет линии",
-                "high stroke color": "Цвет верх. обводки",
-                "mouse enter": "При наведении",
-                "background color": "Цвет фона",
-                "switch color": "Цвет переключателя",
-                "alway show frame": "Всегда показ. рамку",
-                "toggle color": "Цвет тогглов",
-                "stroke color": "Цвет обводки",
-                "risky": "Рисковый",
-                "drop color": "Цвет дропа",
-                "block background color": "Цвет фона блока"
-            },
-            "ui language": {
-                "text language": "Язык текста"
-            }
-        }
-    }
+"language": "RU",
+"translator": "zaminationru",
+"data": {
+"other": {
+"potions": {
+"select potions": "Выбрать зелья",
+"auto use potions": "Авто-использование зелий"
+},
+"shop": {
+"buy selected pickaxe": "Купить выбранную кирку",
+"buy selected potions": "Купить выбранные зелья",
+"select pickaxe": "Выбрать кирку",
+"select potions": "Выбрать зелья"
+},
+"players": {
+"speed": "Скорость",
+"speed boost": "Ускорение"
+},
+"teleport": {
+"teleport to world 3": "ТП в Мир 3",
+"teleport to world 2": "ТП в Мир 2",
+"teleport to world 1": "ТП в Мир 1",
+"teleport to selected location": "ТП в выбранную локацию",
+"select location": "Выбрать локацию"
+}
+},
+"general": {
+"avoid": {
+"hiding height": "Высота скрытия",
+"avoid player": "Избегать игроков",
+"avoid range": "Радиус избегания"
+},
+"mining": {
+"select rocks": "Выбрать камни",
+"select ores": "Выбрать руды",
+"auto mine": "Авто-добыча",
+"auto use best pickaxe": "Авто-использование лучшей кирки",
+"shiny first": "Блестящие в приоритете",
+"auto mine ores": "Авто-добыча руд"
+},
+"combat": {
+"select mobs": "Выбрать мобов",
+"auto fight mobs": "Авто-атака мобов"
+},
+"custom": {
+"desync mob type": "Тип десинхрон моба",
+"desync & desync mob": "Десинхрон и десинхрон моб",
+"tween speed": "Скорость твина",
+"mining hip height": "Высота бедра при добыче",
+"farm position": "Позиция фарма",
+"teleport method": "Метод телепортации"
+}
+},
+"automatic": {
+"race": {
+"auto roll race": "Авто-ролл расы",
+"select race": "Выбрать расу"
+},
+"sell": {
+"select materials": "Выбрать материалы",
+"select runes": "Выбрать руны",
+"select weapon": "Выбрать оружие",
+"select ores": "Выбрать руды",
+"auto sell": "Автопродажа",
+"sell delay": "Задержка продажи"
+},
+"enchance": {
+"select item": "Выбрать предмет",
+"auto enchance item": "Авто-улучшение предмета",
+"stop at level": "Остановить на уровне"
+},
+"forge": {
+"forge control delay": "Задержка управления кузницей",
+"auto forge (instant)": "Авто-ковка (мгновенно)"
+}
+},
+"visual": {
+"local player": {
+"infinity aura": "Бесконечная аура"
+},
+"ambient": {
+"full bright": "Полная яркость"
+},
+"esp utility": {
+"esp rocks": "ESP Камней",
+"esp players": "ESP Игроков",
+"esp monsters": "ESP Монстров"
+}
+},
+"settings": {
+"ui theme": {
+"highlight": "Подсветка",
+"block color": "Цвет блока",
+"line color": "Цвет линии",
+"high stroke color": "Цвет верх. обводки",
+"mouse enter": "При наведении",
+"background color": "Цвет фона",
+"switch color": "Цвет переключателя",
+"alway show frame": "Всегда показывать рамку",
+"toggle color": "Цвет тогглов",
+"stroke color": "Цвет обводки",
+"risky": "Рисковый",
+"drop color": "Цвет дропа",
+"block background color": "Цвет фона блока"
+},
+"ui language": {
+"text language": "Язык текста"
+}
+}
+}
 }
