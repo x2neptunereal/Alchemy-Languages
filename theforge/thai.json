@@ -18,6 +18,7 @@
                 "speed boost": "เพิ่มความเร็ว"
             },
             "teleport": {
+                "teleport to world 3": "วาร์ปไปโลกที่ 3",
                 "teleport to world 2": "วาร์ปไปโลกที่ 2",
                 "teleport to world 1": "วาร์ปไปโลกที่ 1",
                 "teleport to selected location": "วาร์ปไปยังตำแหน่งที่เลือก",
