@@ -18,6 +18,7 @@
                 "speed boost": "Speed Boost"
             },
             "teleport": {
+                "teleport to world 3": "Teleport to World 3",
                 "teleport to world 2": "Teleport to World 2",
                 "teleport to world 1": "Teleport to World 1",
                 "teleport to selected location": "Teleport to Selected Location",
