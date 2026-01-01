@@ -52,6 +52,20 @@
                 "teleport method": "วิธีการวาร์ป"
             }
         },
+        "boss": {
+            "boss": {
+                "select boss": "เลือกบอส",
+                "auto boss": "จัดการบอสอัตโนมัติ",
+                "attack hip height": "ความสูงในการตี"
+            },
+            "party": {
+                "select invite player": "เลือกผู้เล่นที่จะเชิญ",
+                "auto invite": "เชิญผู้เล่นอัตโนมัติ",
+                "select accept player": "เลือกผู้เล่นที่จะรับคำเชิญ",
+                "auto accept invite": "รับคำเชิญอัตโนมัติ",
+                "auto decline invite": "ปฏิเสธคำเชิญอัตโนมัติ"
+            }
+        },
         "automatic": {
             "race": {
                 "auto roll race": "สุ่มเผ่าอัตโนมัติ",
