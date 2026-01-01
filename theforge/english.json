@@ -52,6 +52,20 @@
                 "teleport method": "Teleport Method"
             }
         },
+        "boss": {
+            "boss": {
+                "select boss": "Select Boss",
+                "auto boss": "Auto Boss",
+                "attack hip height": "Attack Hip Height"
+            },
+            "party": {
+                "select invite player": "Select Invite Player",
+                "auto invite": "Auto Invite",
+                "select accept player": "Select Accept Player",
+                "auto accept invite": "Auto Accept Invite",
+                "auto decline invite": "Auto Decline Invite"
+            }
+        },
         "automatic": {
             "race": {
                 "auto roll race": "Auto Roll Race",
