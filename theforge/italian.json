@@ -52,6 +52,20 @@
                 "teleport method": "Metodo Di TP"
             }
         },
+        "boss": {
+            "boss": {
+                "select boss": "Seleziona Boss",
+                "auto boss": "Auto Boss",
+                "attack hip height": "Altezza Di Attacco"
+            },
+            "party": {
+                "select invite player": "Seleziona Giocatori Da Invitare",
+                "auto invite": "Auto Invita",
+                "select accept player": "Seleziona Giocatori Da Accettare",
+                "auto accept invite": "Auto Accetta Invito",
+                "auto decline invite": "Auto Rifiuta Invito"
+            }
+        },
         "automatic": {
             "race": {
                 "auto roll race": "Auto Rolla Razza",
