@@ -52,6 +52,20 @@
 "teleport method": "Метод телепортации"
 }
 },
+"boss": {
+    "boss": {
+        "select boss": "Выбрать босса",
+        "auto boss": "Авто-босс",
+        "attack hip height": "Высота при атаке"
+    },
+    "party": {
+        "select invite player": "Выбрать игрока для приглашения",
+        "auto invite": "Авто-приглашение",
+        "select accept player": "Выбрать игрока для принятия",
+        "auto accept invite": "Авто-принятие приглашения",
+        "auto decline invite": "Авто-отклонение приглашения"
+    }
+},
 "automatic": {
 "race": {
 "auto roll race": "Авто-ролл расы",
