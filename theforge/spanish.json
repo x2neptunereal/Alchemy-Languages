@@ -55,6 +55,7 @@
         "boss": {
             "boss": {
                 "select boss": "Seleccionar Jefe",
+                "multi spawn": "Multi Aparición",
                 "auto boss": "Auto Jefe",
                 "attack hip height": "Altura de Ataque"
             },
@@ -107,81 +108,6 @@
                 "highlight": "Resaltado",
                 "block color": "Color de Bloque",
                 "line color": "Color de Línea",
-                "high stroke color": "Color de Borde Alto",
-                "mouse enter": "Entrada del Ratón",
-                "background color": "Color de Fondo",
-                "switch color": "Color de Interruptor",
-                "alway show frame": "Mostrar Marco Siempre",
-                "toggle color": "Color de Toggle",
-                "stroke color": "Color de Borde",
-                "risky": "Riesgoso",
-                "drop color": "Color de Drop",
-                "block background color": "Color de Fondo del Bloque"
-            },
-            "ui language": {
-                "text language": "Idioma del Texto"
-            }
-        }
-    }
-}                "auto mine": "Auto Minar",
-                "auto use best pickaxe": "Auto Usar Mejor Pico",
-                "shiny first": "Brillantes Primero",
-                "auto mine ores": "Auto Minar Minerales"
-            },
-            "combat": {
-                "select mobs": "Seleccionar Enemigos",
-                "auto fight mobs": "Auto Combatir Enemigos"
-            },
-            "custom": {
-                "desync mob type": "Tipo de Desync del Enemigo",
-                "desync & desync mob": "Desync y Desync del Enemigo",
-                "tween speed": "Velocidad de Desplazamiento",
-                "mining hip height": "Altura de Minado",
-                "farm position": "Posición de Farm",
-                "teleport method": "Método de Tp"
-            }
-        },
-        "automatic": {
-            "race": {
-                "auto roll race": "Auto Girar Raza",
-                "select race": "Seleccionar Raza"
-            },
-            "sell": {
-                "select materials": "Seleccionar Materiales",
-                "select runes": "Seleccionar Runas",
-                "select weapon": "Seleccionar Arma",
-                "select ores": "Seleccionar Minerales",
-                "auto sell": "Auto Vender",
-                "sell delay": "Retraso de Venta"
-            },
-            "enchance": {
-                "select item": "Seleccionar Objeto",
-                "auto enchance item": "Auto Mejorar Objeto",
-                "stop at level": "Detener en Nivel"
-            },
-            "forge": {
-                "forge control delay": "Retraso de Control de Forja",
-                "auto forge (instant)": "Auto Forjar (Instantáneo)"
-            }
-        },
-        "visual": {
-            "local player": {
-                "infinity aura": "Aura Infinita"
-            },
-            "ambient": {
-                "full bright": "Brillo Máximo"
-            },
-            "esp utility": {
-                "esp rocks": "ESP Rocas",
-                "esp players": "ESP Jugadores",
-                "esp monsters": "ESP Monstruos"
-            }
-        },
-        "settings": {
-            "ui theme": {
-                "highlight": "Resaltado",
-                "block color": "Color de Bloque",
-                "line color": "Color de Lí­nea",
                 "high stroke color": "Color de Borde Alto",
                 "mouse enter": "Entrada del Ratón",
                 "background color": "Color de Fondo",
