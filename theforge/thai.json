@@ -55,6 +55,7 @@
         "boss": {
             "boss": {
                 "select boss": "เลือกบอส",
+                "multi spawn": "เสกบอสหลายตัว",
                 "auto boss": "จัดการบอสอัตโนมัติ",
                 "attack hip height": "ความสูงในการตี"
             },
