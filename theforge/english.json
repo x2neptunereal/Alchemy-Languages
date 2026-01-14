@@ -55,6 +55,7 @@
         "boss": {
             "boss": {
                 "select boss": "Select Boss",
+                "multi spawn": "Multi Spawn",
                 "auto boss": "Auto Boss",
                 "attack hip height": "Attack Hip Height"
             },
