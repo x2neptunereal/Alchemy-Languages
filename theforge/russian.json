@@ -54,6 +54,7 @@
 },
 "boss": {
     "boss": {
+        "multi spawn": "Мульти спавн",
         "select boss": "Выбрать босса",
         "auto boss": "Авто-босс",
         "attack hip height": "Высота при атаке"
