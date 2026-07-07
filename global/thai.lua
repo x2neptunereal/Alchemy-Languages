@@ -17,4 +17,11 @@ return {
     ["Start Find Server"] = "เริ่มค้นหาเซิร์ฟเวอร์",
     ["UI Size"] = "ขนาดเมนู",
     ["Unload Script"] = "ยกเลิกการโหลดสคริปต์",
+    
+    ["Hop Server (New Server)"] = "ย้ายไปเซิฟใหม่",
+    ["Hop Server (Old Server)"] = "ย้ายไปเซิฟเก่า",
+    ["Rejoin Server"] = "ออกเกมเข้าใหม่",
+    ["JobId"] = "ไอดีเซิฟเวอร์",
+    ["Join Server JobId"] = "เข้าร่วมเซิฟเวอร์ด้วยไอดี",
+    ["Copy JobId"] = "คัดลอกไอดีเซิฟเวอร์",
 }
