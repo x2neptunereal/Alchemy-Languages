@@ -1,5 +1,6 @@
 return {
     ["Accent Color"] = "Accent Color",
+    ["Config"] = "Config",
     ["Configs List"] = "Configs List",
     ["Copy Force Config"] = "Copy Force Config",
     ["Create"] = "Create",
