@@ -1,5 +1,6 @@
 return {
     ["Accent Color"] = "สี UI หลัก",
+    ["Config"] = "ชื่อไฟล์ตั้งค่า",
     ["Configs List"] = "รายการการตั้งค่า",
     ["Copy Force Config"] = "คัดลอกการตั้งค่าบังคับ",
     ["Create"] = "สร้าง",
