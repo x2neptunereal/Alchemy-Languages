@@ -17,4 +17,11 @@ return {
     ["Start Find Server"] = "Start Find Server",
     ["UI Size"] = "UI Size",
     ["Unload Script"] = "Unload Script",
+    
+    ["Hop Server (New Server)"] = "Hop Server (New Server)",
+    ["Hop Server (Old Server)"] = "Hop Server (Old Server)",
+    ["Rejoin Server"] = "Rejoin Server",
+    ["JobId"] = "JobId",
+    ["Join Server JobId"] = "Join Server JobId",
+    ["Copy JobId"] = "Copy JobId",
 }
