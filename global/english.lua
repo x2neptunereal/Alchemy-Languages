@@ -1,3 +1,19 @@
 return {
-
+    ["Accent Color"] = "Accent Color",
+    ["Configs List"] = "Configs List",
+    ["Copy Force Config"] = "Copy Force Config",
+    ["Create"] = "Create",
+    ["Hide Watermark"] = "Hide Watermark",
+    ["Maximum of Servers"] = "Maximum of Servers",
+    ["Menu Keybind"] = "Menu Keybind",
+    ["Reduced Motion"] = "Reduced Motion",
+    ["Reset UI Setting"] = "Reset UI Setting",
+    ["Reset/Delete Workspace"] = "Reset/Delete Workspace",
+    ["Search Server"] = "Search Server",
+    ["Select Language"] = "Select Language",
+    ["Server Refresh Delay"] = "Server Refresh Delay",
+    ["Show Tab Infomation"] = "Show Tab Infomation",
+    ["Start Find Server"] = "Start Find Server",
+    ["UI Size"] = "UI Size",
+    ["Unload Script"] = "Unload Script",
 }
