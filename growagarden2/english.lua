@@ -34,6 +34,7 @@ return {
     ["Min Value"] = "Min Value",
     ["Mode"] = "Mode",
     ["Plant At Rows"] = "Plant At Rows",
+    ["Plant ESP"] = "Plant ESP",
     ["Plant Delay"] = "Plant Delay",
     ["Price Overlay"] = "Price Overlay",
     ["Price minimum"] = "Price minimum",
@@ -70,5 +71,6 @@ return {
     ["Text Transparency"] = "Text Transparency",
     ["Trowel Delay"] = "Trowel Delay",
     ["Water Delay"] = "Water Delay",
+    ["Weight minimum"] = "Weight minimumำ",
     ["Wild Pet ESP"] = "Wild Pet ESP",
 }
