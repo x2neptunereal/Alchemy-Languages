@@ -18,6 +18,7 @@ return {
     ["Auto Trowel"] = "ใช้เกรียงอัตโนมัติ",
     ["Auto Use Sprinklers"] = "ใช้สปริงเกอร์อัตโนมัติ",
     ["Auto Water Plants"] = "รดน้ำต้นไม้อัตโนมัติ",
+    ["Amount ltem"] = "จำนวนรายการ",
     ["Buy Delay"] = "ดีเลย์การซื้อ",
     ["Buy Select Crates"] = "ซื้อลังที่เลือก",
     ["Buy Select Gears"] = "ซื้ออุปกรณ์ที่เลือก",
