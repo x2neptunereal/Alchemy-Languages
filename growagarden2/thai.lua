@@ -34,6 +34,7 @@ return {
     ["Min Value"] = "ค่าต่ำสุด",
     ["Mode"] = "โหมด",
     ["Plant At Rows"] = "ปลูกเป็นแถว",
+    ["Plant ESP"] = "ESP ต้นไม้",
     ["Plant Delay"] = "ดีเลย์การปลูก",
     ["Price Overlay"] = "แสดงราคาซ้อนทับ",
     ["Price minimum"] = "ราคาต่ำสุด",
@@ -70,5 +71,6 @@ return {
     ["Text Transparency"] = "ความโปร่งใสของตัวอักษร",
     ["Trowel Delay"] = "ดีเลย์เกรียง",
     ["Water Delay"] = "ดีเลย์การรดน้ำ",
+    ["Weight minimum"] = "น้ำหนักขั้นต่ำ",
     ["Wild Pet ESP"] = "ESP สัตว์เลี้ยงป่า",
 }
