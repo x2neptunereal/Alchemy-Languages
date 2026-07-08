@@ -71,6 +71,6 @@ return {
     ["Text Transparency"] = "Text Transparency",
     ["Trowel Delay"] = "Trowel Delay",
     ["Water Delay"] = "Water Delay",
-    ["Weight minimum"] = "Weight minimumำ",
+    ["Weight minimum"] = "Weight minimum",
     ["Wild Pet ESP"] = "Wild Pet ESP",
 }
