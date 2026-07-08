@@ -47,6 +47,7 @@ return {
     ["Favorite Delay"] = "Favorite Delay",
     ["Feed Delay"] = "Feed Delay",
     ["Fish Y Level"] = "Fish Y Level",
+    ["Fishing Delay"] = "Fishing Delay",
     ["Fishing Location"] = "Fishing Location",
     ["Fishing Mode"] = "Fishing Mode",
     ["Hide Fish Notify"] = "Hide Fish Notify",
