@@ -63,7 +63,7 @@ return {
     ["Remove Lava"] = "Menghilangkan Lava",
     ["Select Crates"] = "Pilih Peti",
     ["Select Default Bait"] = "Pilih Umpan Biasa",
-    ["Select Enchant"] = "Pilih Enchant"
+    ["Select Enchant"] = "Pilih Enchant",
     ["Select Event Bait"] = "Pilih Umpan untuk Events",
     ["Select Events"] = "Pilih Events",
     ["Select Fishes"] = "Pilih Ikan",
