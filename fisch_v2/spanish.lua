@@ -47,6 +47,7 @@ return {
     ["Favorite Delay"] = "Retraso de Favorito",
     ["Feed Delay"] = "Retraso de Alimentar",
     ["Fish Y Level"] = "Altura de Pesca",
+    ["Fishing Delay"] = "Fishing Delay",
     ["Fishing Location"] = "UbicaciÃ³n de Pesca",
     ["Fishing Mode"] = "Modo de Pesca",
     ["Hide Fish Notify"] = "Ocultar NotificaciÃ³n de Pez",
