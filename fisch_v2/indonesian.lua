@@ -47,6 +47,7 @@ return {
     ["Favorite Delay"] = "Jeda Favorit",
     ["Feed Delay"] = "Jeda Memberi Makan",
     ["Fish Y Level"] = "Ikan Tingkat Y",
+    ["Fishing Delay"] = "Fishing Delay",
     ["Fishing Location"] = "Lokasi Memancing",
     ["Fishing Mode"] = "Mode Memancing",
     ["Hide Fish Notify"] = "Sembunyikan Notifikasi Ikan",
