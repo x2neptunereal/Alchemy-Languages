@@ -63,7 +63,7 @@ return {
     ["Remove Lava"] = "Remove Lava",
     ["Select Crates"] = "Select Crates",
     ["Select Default Bait"] = "Select Default Bait",
-    ["Select Enchant"] = "Select Enchant"
+    ["Select Enchant"] = "Select Enchant",
     ["Select Event Bait"] = "Select Event Bait",
     ["Select Events"] = "Select Events",
     ["Select Fishes"] = "Select Fishes",
