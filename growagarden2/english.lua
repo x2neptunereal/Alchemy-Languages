@@ -18,6 +18,7 @@ return {
     ["Auto Trowel"] = "Auto Trowel",
     ["Auto Use Sprinklers"] = "Auto Use Sprinklers",
     ["Auto Water Plants"] = "Auto Water Plants",
+    ["Amount ltem"] = "Amount ltem",
     ["Buy Delay"] = "Buy Delay",
     ["Buy Select Crates"] = "Buy Select Crates",
     ["Buy Select Gears"] = "Buy Select Gears",
