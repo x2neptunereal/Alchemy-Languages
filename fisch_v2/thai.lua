@@ -63,7 +63,7 @@ return {
     ["Remove Lava"] = "ลบลาวา",
     ["Select Crates"] = "เลือกลัง",
     ["Select Default Bait"] = "เลือกเหยื่อปกติ",
-    ["Select Enchant"] = "เลือกร่ายมนตร์"
+    ["Select Enchant"] = "เลือกร่ายมนตร์",
     ["Select Event Bait"] = "เลือกหยื่ออีเวนต์",
     ["Select Events"] = "เลือกอีเวนต์",
     ["Select Fishes"] = "เลือกปลา",
