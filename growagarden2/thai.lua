@@ -68,3 +68,6 @@ return {
     ["Text Scale"] = "ขนาดตัวอักษร",
     ["Text Transparency"] = "ความโปร่งใสของตัวอักษร",
     ["Trowel Delay"] = "ดีเลย์เกรียง",
+    ["Water Delay"] = "ดีเลย์การรดน้ำ",
+    ["Wild Pet ESP"] = "ESP สัตว์เลี้ยงป่า",
+}
