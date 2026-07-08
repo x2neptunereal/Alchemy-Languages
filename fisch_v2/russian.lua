@@ -47,6 +47,7 @@ return {
     ["Favorite Delay"] = "Задержка избранного",
     ["Feed Delay"] = "Задержка кормления",
     ["Fish Y Level"] = "Уровень Y для рыбы",
+    ["Fishing Delay"] = "Fishing Delay",
     ["Fishing Location"] = "Место рыбалки",
     ["Fishing Mode"] = "Режим рыбалки",
     ["Hide Fish Notify"] = "Скрыть уведомления о рыбе",
