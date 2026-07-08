@@ -47,6 +47,7 @@ return {
     ["Favorite Delay"] = "ดีเลย์ตั้งเป็นรายการโปรด",
     ["Feed Delay"] = "ดีเลย์ให้อาหาร",
     ["Fish Y Level"] = "ระดับความสูง (Y)",
+    ["Fishing Delay"] = "ดีเลย์การตกปลา",
     ["Fishing Location"] = "สถานที่ตกปลา",
     ["Fishing Mode"] = "โหมดการตกปลา",
     ["Hide Fish Notify"] = "ซ่อนการแจ้งเตือนเมื่อได้ปลา",
@@ -62,6 +63,7 @@ return {
     ["Remove Lava"] = "ลบลาวา",
     ["Select Crates"] = "เลือกลัง",
     ["Select Default Bait"] = "เลือกเหยื่อปกติ",
+    ["Select Enchant"] = "เลือกร่ายมนตร์"
     ["Select Event Bait"] = "เลือกหยื่ออีเวนต์",
     ["Select Events"] = "เลือกอีเวนต์",
     ["Select Fishes"] = "เลือกปลา",
