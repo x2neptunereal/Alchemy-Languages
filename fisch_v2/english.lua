@@ -63,6 +63,7 @@ return {
     ["Protect Player Data"] = "Protect Player Data",
     ["Redeem All Codes"] = "Redeem All Codes",
     ["Remove Lava"] = "Remove Lava",
+    ["Select Appraiser"] = "Select Appraiser",
     ["Select Crates"] = "Select Crates",
     ["Select Default Bait"] = "Select Default Bait",
     ["Select Enchant"] = "Select Enchant",
