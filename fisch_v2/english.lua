@@ -79,7 +79,7 @@ return {
     ["Select Totem"] = "Select Totem",
     ["Select Totems"] = "Select Totems",
     ["Select Use Position"] = "Select Use Position",
-    ["Select Community Location"] = "Select Community Location".
+    ["Select Community Location"] = "Select Community Location",
     ["Sell All"] = "Sell All",
     ["Sell Delay"] = "Sell Delay",
     ["Sell Held"] = "Sell Held",
