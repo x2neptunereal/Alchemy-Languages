@@ -63,6 +63,7 @@ return {
     ["Protect Player Data"] = "ปกป้องข้อมูลผู้เล่น",
     ["Redeem All Codes"] = "แลกโค้ดทั้งหมด",
     ["Remove Lava"] = "ลบลาวา",
+    ["Select Appraiser"] = "เลือกผู้ประเมินราคา",
     ["Select Crates"] = "เลือกลัง",
     ["Select Default Bait"] = "เลือกเหยื่อปกติ",
     ["Select Enchant"] = "เลือกร่ายมนตร์",
