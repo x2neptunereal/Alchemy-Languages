@@ -79,7 +79,7 @@ return {
     ["Select Totem"] = "เลือกโทเท็ม",
     ["Select Totems"] = "เลือกโทเท็ม",
     ["Select Use Position"] = "เลือกตำแหน่งไว้ใช้งาน",
-    ["Select Community Location"] = "เลือกตำแหน่งจากชุมชน".
+    ["Select Community Location"] = "เลือกตำแหน่งจากชุมชน",
     ["Sell All"] = "ขายทั้งหมด",
     ["Sell Delay"] = "ดีเลย์ขาย",
     ["Sell Held"] = "ขายของที่ถืออยู่",
