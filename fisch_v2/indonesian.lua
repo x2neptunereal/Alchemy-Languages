@@ -63,6 +63,7 @@ return {
     ["Protect Player Data"] = "Lindungi Data Pemain",
     ["Redeem All Codes"] = "Menukarkan Semua Kode",
     ["Remove Lava"] = "Menghilangkan Lava",
+    ["Select Appraiser"] = "Select Appraiser",
     ["Select Crates"] = "Pilih Peti",
     ["Select Default Bait"] = "Pilih Umpan Biasa",
     ["Select Enchant"] = "Pilih Enchant",
