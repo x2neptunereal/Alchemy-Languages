@@ -88,7 +88,7 @@ return {
     ["Teleport to Custom Position"] = "เทเลพอร์ตไปตำแหน่งกำหนดเอง",
     ["Teleport to Selected Position"] = "เทเลพอร์ตไปยังจุดที่เลือก",
     ["Teleport to Selected Island"] = "เทเลพอร์ตไปยังเกาะที่เลือก",
-    ["Teleport to Selected Location"] = "Teleport to Selected Location",
+    ["Teleport to Selected Location"] = "เทเลพอร์ตไปยังพิกัดที่เลือก",
     ["Unlock All Locations"] = "ปลดล็อกทุกสถานที่",
     ["Walk On Water"] = "เดินบนน้ำ",
     ["WalkSpeed value"] = "ค่าความเร็วเดิน",
