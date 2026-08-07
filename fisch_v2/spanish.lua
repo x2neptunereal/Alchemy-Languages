@@ -63,6 +63,7 @@ return {
     ["Protect Player Data"] = "Proteger Datos del Jugador",
     ["Redeem All Codes"] = "Canjear Todos los CÃ³digos",
     ["Remove Lava"] = "Eliminar Lava",
+    ["Select Appraiser"] = "Select Appraiser",
     ["Select Crates"] = "Seleccionar Cajas",
     ["Select Default Bait"] = "Seleccionar Cebo Predeterminado",
     ["Select Enchant"] = "Seleccionar Encantamiento",
