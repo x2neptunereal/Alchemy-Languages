@@ -37,6 +37,7 @@ return {
     ["Claim Delay"] = "ดีเลย์รับรางวัล",
     ["Copy Selected Position"] = "คัดลอกตำแหน่งที่เลือก",
     ["Copy Teleport Script"] = "คัดลอกสคริปต์เทเลพอร์ต",
+    ["Custom Position"] = "ตำแหน่งที่กำหนดเอง",
     ["Drop Bobber"] = "หย่อนทุ่นตกปลา",
     ["Delete Selected Position"] = "ลบจุดที่เลือก",
     ["ESP Fish"] = "มองเห็นตำแหน่งปลา",
