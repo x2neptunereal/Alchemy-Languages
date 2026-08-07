@@ -37,6 +37,7 @@ return {
     ["Claim Delay"] = "Claim Delay",
     ["Copy Selected Position"] = "Copy Selected Position",
     ["Copy Teleport Script"] = "Copy Teleport Script",
+    ["Custom Position"] = "Custom Position",
     ["Drop Bobber"] = "Drop Bobber",
     ["Delete Selected Position"] = "Delete Selected Position",
     ["ESP Fish"] = "ESP Fish",
