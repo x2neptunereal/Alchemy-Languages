@@ -63,6 +63,7 @@ return {
     ["Protect Player Data"] = "Защита данных игрока",
     ["Redeem All Codes"] = "Активировать все коды",
     ["Remove Lava"] = "Убрать лаву",
+    ["Select Appraiser"] = "Select Appraiser",
     ["Select Crates"] = "Выбрать ящики",
     ["Select Default Bait"] = "Выбрать наживку по умолчанию",
     ["Select Enchant"] = "Выбрать зачарование",
