@@ -3,6 +3,7 @@ return {
     ["(2) Rod For Events"] = "(2) Удочка для событий",
     ["Activate Delay"] = "Задержка активации",
     ["Add Save Position"] = "Добавить сохранённую позицию",
+    ["Ask Reel or Snap"] = "Ask Reel or Snap",
     ["Auto Active Aurora"] = "Авто активация Авроры",
     ["Auto Active Eclipse"] = "Авто активация Затмения",
     ["Auto Angler Quest"] = "Авто квесты рыболова",
