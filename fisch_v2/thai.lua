@@ -3,6 +3,7 @@ return {
     ["(2) Rod For Events"] = "(2) คันเบ็ดสำหรับอีเวนต์",
     ["Activate Delay"] = "ดีเลย์เปิดใช้งาน",
     ["Add Save Position"] = "เพิ่มตำแหน่งที่บันทึกไว้",
+    ["Ask Reel or Snap"] = "ถาม Reel หรือ Snap",
     ["Auto Active Aurora"] = "เปิดใช้ออโรร่าอัตโนมัติ",
     ["Auto Active Eclipse"] = "เปิดใช้อีคลิปส์อัตโนมัติ",
     ["Auto Angler Quest"] = "ทำเควสต์นักตกปลาอัตโนมัติ",
