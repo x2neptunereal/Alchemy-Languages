@@ -3,6 +3,7 @@ return {
     ["(2) Rod For Events"] = "(2) CaÃ±a Para Eventos",
     ["Activate Delay"] = "Retraso de ActivaciÃ³n",
     ["Add Save Position"] = "AÃ±adir PosiciÃ³n Guardada",
+    ["Ask Reel or Snap"] = "Ask Reel or Snap",
     ["Auto Active Aurora"] = "Auto Activar Aurora",
     ["Auto Active Eclipse"] = "Auto Activar Eclipse",
     ["Auto Angler Quest"] = "Auto MisiÃ³n de Pescador",
