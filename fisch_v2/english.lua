@@ -3,6 +3,7 @@ return {
     ["(2) Rod For Events"] = "(2) Rod For Events",
     ["Activate Delay"] = "Activate Delay",
     ["Add Save Position"] = "Add Save Position",
+    ["Ask Reel or Snap"] = "Ask Reel or Snap",
     ["Auto Active Aurora"] = "Auto Active Aurora",
     ["Auto Active Eclipse"] = "Auto Active Eclipse",
     ["Auto Angler Quest"] = "Auto Angler Quest",
