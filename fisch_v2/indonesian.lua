@@ -3,6 +3,7 @@ return {
     ["(2) Rod For Events"] = "(2) Alat Pancing Untuk Events",
     ["Activate Delay"] = "Aktivasi Jeda",
     ["Add Save Position"] = "Tambahkan simpan posisi",
+    ["Ask Reel or Snap"] = "Ask Reel or Snap",
     ["Auto Active Aurora"] = "Aktivasi Aurora Otomatis",
     ["Auto Active Eclipse"] = "Aktivasi Eclipse Otomatis",
     ["Auto Angler Quest"] = "Misi Angler Otomatis",
