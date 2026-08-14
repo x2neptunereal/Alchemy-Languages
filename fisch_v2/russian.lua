@@ -54,6 +54,7 @@ return {
     ["Fishing Delay"] = "Fishing Delay",
     ["Fishing Location"] = "Место рыбалки",
     ["Fishing Mode"] = "Режим рыбалки",
+    ["Full Bright"] = "Full Bright",
     ["Hide Fish Notify"] = "Скрыть уведомления о рыбе",
     ["Hide Inventory"] = "Скрыть инвентарь",
     ["Insects Farming"] = "Фарм насекомых",
