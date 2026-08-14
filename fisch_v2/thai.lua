@@ -54,6 +54,7 @@ return {
     ["Fishing Delay"] = "ดีเลย์การตกปลา",
     ["Fishing Location"] = "สถานที่ตกปลา",
     ["Fishing Mode"] = "โหมดการตกปลา",
+    ["Full Bright"] = "กลางวันตลอด",
     ["Hide Fish Notify"] = "ซ่อนการแจ้งเตือนเมื่อได้ปลา",
     ["Hide Inventory"] = "ซ่อนกระเป๋าไอเทม",
     ["Insects Farming"] = "ฟาร์มแมลง",
