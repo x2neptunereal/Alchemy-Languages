@@ -54,6 +54,7 @@ return {
     ["Fishing Delay"] = "Fishing Delay",
     ["Fishing Location"] = "Lokasi Memancing",
     ["Fishing Mode"] = "Mode Memancing",
+    ["Full Bright"] = "Full Bright",
     ["Hide Fish Notify"] = "Sembunyikan Notifikasi Ikan",
     ["Hide Inventory"] = "Sembunyikan Ruang Penyimpanan",
     ["Insects Farming"] = "Mengumpulkan Serangga",
