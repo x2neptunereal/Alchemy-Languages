@@ -54,6 +54,7 @@ return {
     ["Fishing Delay"] = "Fishing Delay",
     ["Fishing Location"] = "Fishing Location",
     ["Fishing Mode"] = "Fishing Mode",
+    ["Full Bright"] = "Full Bright",
     ["Hide Fish Notify"] = "Hide Fish Notify",
     ["Hide Inventory"] = "Hide Inventory",
     ["Insects Farming"] = "Insects Farming",
