@@ -35,7 +35,7 @@ return {
     ["Buy Selected Skin Crate"] = "Купить выбранный кейс",
     ["Buy Selected Totem"] = "Купить выбранный тотем",
     ["Change Rod Fishing"] = "Сменить удочку для рыбалки",
-    ["Claim Delay"] = "Задержка получения",
+    ["Claim Delay"] = "Задержка сбора (наград)",
     ["Copy Selected Position"] = "Скопировать выбранную позицию",
     ["Copy Teleport Script"] = "Скопировать скрипт телепорта",
     ["Custom Position"] = "Своя позиция",
