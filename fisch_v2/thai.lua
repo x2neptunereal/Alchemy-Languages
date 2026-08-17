@@ -13,6 +13,7 @@ return {
     ["Auto Buy Selected Totems"] = "ซื้อโทเท็มที่เลือกอัตโนมัติ",
     ["Auto Change Bait"] = "เปลี่ยนเหยื่ออัตโนมัติ",
     ["Auto Claim Aquarium"] = "รับรางวัลตู้ปลาอัตโนมัติ",
+    ["Auto Collect Fischfest Items"] = "เก็บไอเท็ม Fischfest อัตโนมัติ",
     ["Auto Collect Shells"] = "เก็บเปลือกหอยอัตโนมัติ",
     ["Auto Convert Shells"] = "แปลงเปลือกหอยอัตโนมัติ",
     ["Auto Delete Fish"] = "ลบปลาอัตโนมัติ",
