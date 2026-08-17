@@ -13,6 +13,7 @@ return {
     ["Auto Buy Selected Totems"] = "Auto Comprar TÃ³tems Seleccionados",
     ["Auto Change Bait"] = "Auto Cambiar Cebo",
     ["Auto Claim Aquarium"] = "Auto Reclamar Acuario",
+    ["Auto Collect Fischfest Items"] = "Auto Collect Fischfest Items",
     ["Auto Collect Shells"] = "Auto Recoger Conchas",
     ["Auto Convert Shells"] = "Auto Convertir Conchas",
     ["Auto Delete Fish"] = "Auto Eliminar Peces",
