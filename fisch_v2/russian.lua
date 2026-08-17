@@ -13,6 +13,7 @@ return {
     ["Auto Buy Selected Totems"] = "Автопокупка выбранных тотемов",
     ["Auto Change Bait"] = "Автосмена наживки",
     ["Auto Claim Aquarium"] = "Автосбор аквариума",
+    ["Auto Collect Fischfest Items"] = "Auto Collect Fischfest Items",
     ["Auto Collect Shells"] = "Автосбор ракушек",
     ["Auto Convert Shells"] = "Автоконвертация ракушек",
     ["Auto Delete Fish"] = "Автоудаление рыбы",
