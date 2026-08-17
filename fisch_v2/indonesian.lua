@@ -13,6 +13,7 @@ return {
     ["Auto Buy Selected Totems"] = "Membeli Otomatis Totem yang Dipilih",
     ["Auto Change Bait"] = "Otomatis Mengganti Umpan",
     ["Auto Claim Aquarium"] = "Klaim Otomatis Aquarium",
+    ["Auto Collect Fischfest Items"] = "Auto Collect Fischfest Items",
     ["Auto Collect Shells"] = "Mengumpulkan Kerang Otomatis",
     ["Auto Convert Shells"] = "Konversi Otomatis Kerang",
     ["Auto Delete Fish"] = "Menghapus Otomatis Ikan",
