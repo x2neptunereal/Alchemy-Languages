@@ -13,6 +13,7 @@ return {
     ["Auto Buy Selected Totems"] = "Auto Buy Selected Totems",
     ["Auto Change Bait"] = "Auto Change Bait",
     ["Auto Claim Aquarium"] = "Auto Claim Aquarium",
+    ["Auto Collect Fischfest Items"] = "Auto Collect Fischfest Items",
     ["Auto Collect Shells"] = "Auto Collect Shells",
     ["Auto Convert Shells"] = "Auto Convert Shells",
     ["Auto Delete Fish"] = "Auto Delete Fish",
