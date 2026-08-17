@@ -13,6 +13,7 @@ return {
     ["Auto Buy Selected Totems"] = "自动购买所选图腾",
     ["Auto Change Bait"] = "自动更换鱼饵",
     ["Auto Claim Aquarium"] = "自动领取水族馆奖励",
+    ["Auto Collect Fischfest Items"] = "Auto Collect Fischfest Items",
     ["Auto Collect Shells"] = "自动收集贝壳",
     ["Auto Convert Shells"] = "自动转换贝壳",
     ["Auto Delete Fish"] = "自动删除鱼类",
