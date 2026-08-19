@@ -62,6 +62,7 @@ return {
     ["JumpPower value"] = "Nilai Kekuatan Melompat",
     ["New Position Name"] = "Nama Posisi Baru",
     ["Perfect Catch"] = "Tangkapan Sempurna",
+    ["Perfect Percentage"] = "Perfect Percentage",
     ["Protect Fish Caught"] = "Lindungi Ikan yang Ditangkap",
     ["Protect Identity"] = "Lindungi Identitas",
     ["Protect Player Data"] = "Lindungi Data Pemain",
