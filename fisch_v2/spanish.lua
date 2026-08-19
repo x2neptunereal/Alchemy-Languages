@@ -62,6 +62,7 @@ return {
     ["JumpPower value"] = "Poder de Salto",
     ["New Position Name"] = "Nombre de Nueva PosiciÃ³n",
     ["Perfect Catch"] = "Captura Perfecta",
+    ["Perfect Percentage"] = "Perfect Percentage",
     ["Protect Fish Caught"] = "Proteger Pez Capturado",
     ["Protect Identity"] = "Proteger Identidad",
     ["Protect Player Data"] = "Proteger Datos del Jugador",
