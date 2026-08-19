@@ -62,6 +62,7 @@ return {
     ["JumpPower value"] = "JumpPower value",
     ["New Position Name"] = "New Position Name",
     ["Perfect Catch"] = "Perfect Catch",
+    ["Perfect Percentage"] = "Perfect Percentage",
     ["Protect Fish Caught"] = "Protect Fish Caught",
     ["Protect Identity"] = "Protect Identity",
     ["Protect Player Data"] = "Protect Player Data",
