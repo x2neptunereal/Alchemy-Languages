@@ -24,4 +24,7 @@ return {
     ["JobId"] = "ไอดีเซิฟเวอร์",
     ["Join Server JobId"] = "เข้าร่วมเซิฟเวอร์ด้วยไอดี",
     ["Copy JobId"] = "คัดลอกไอดีเซิฟเวอร์",
+    
+    ["Enable Background"] = "เปิดใช้งานพื้นหลัง",
+    ["Background URL"] = "URL พื้นหลัง",
 }
