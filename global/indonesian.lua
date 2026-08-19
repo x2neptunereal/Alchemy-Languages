@@ -25,6 +25,6 @@ return {
     ["Join Server JobId"] = "Bergabung ke Server JobId",
     ["Copy JobId"] = "Salin JobId",
 
-    ["Enable Background"] = "Enable Background",
-    ["Background URL"] = "Background URL",
+    ["Enable Background"] = "Aktifkan Latar Belakang",
+    ["Background URL"] = "Alamat Web Latar Belakang",
 }
