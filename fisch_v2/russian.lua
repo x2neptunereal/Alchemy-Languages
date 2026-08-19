@@ -62,6 +62,7 @@ return {
     ["JumpPower value"] = "Значение JumpPower",
     ["New Position Name"] = "Имя новой позиции",
     ["Perfect Catch"] = "Идеальный улов",
+    ["Perfect Percentage"] = "Perfect Percentage",
     ["Protect Fish Caught"] = "Защита пойманной рыбы",
     ["Protect Identity"] = "Защита личности",
     ["Protect Player Data"] = "Защита данных игрока",
