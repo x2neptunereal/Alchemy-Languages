@@ -24,4 +24,7 @@ return {
     ["JobId"] = "JobId",
     ["Join Server JobId"] = "Bergabung ke Server JobId",
     ["Copy JobId"] = "Salin JobId",
+
+    ["Enable Background"] = "Enable Background",
+    ["Background URL"] = "Background URL",
 }
