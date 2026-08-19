@@ -24,4 +24,7 @@ return {
     ["JobId"] = "服务器ID",
     ["Join Server JobId"] = "通过ID加入服务器",
     ["Copy JobId"] = "复制服务器ID",
+    
+    ["Enable Background"] = "Enable Background",
+    ["Background URL"] = "Background URL",
 }
