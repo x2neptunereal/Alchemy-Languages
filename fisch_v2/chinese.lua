@@ -62,6 +62,7 @@ return {
     ["JumpPower value"] = "跳跃力数值",
     ["New Position Name"] = "新坐标名称",
     ["Perfect Catch"] = "完美收竿",
+    ["Perfect Percentage"] = "Perfect Percentage",
     ["Protect Fish Caught"] = "保护已捕获的鱼",
     ["Protect Identity"] = "隐藏身份",
     ["Protect Player Data"] = "保护玩家数据",
