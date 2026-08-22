@@ -25,6 +25,6 @@ return {
     ["Join Server JobId"] = "Присоединиться по JobId",
     ["Copy JobId"] = "Копировать JobId",
     
-    ["Enable Background"] = "Enable Background",
-    ["Background URL"] = "Background URL",
+    ["Enable Background"] = "Включить фон меню",
+    ["Background URL"] = "Ссылка на фон меню",
 }
