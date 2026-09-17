@@ -24,7 +24,7 @@ return {
     ["Auto Favorite Mutation"] = "Favorit Mutasi Otomatis",
     ["Auto Feed Aquarium"] = "Memberi Makan Aquarium Otomatis",
     ["Auto Fishing"] = "Memancing Otomatis",
-    ["Auto Nuke Minigame"] = "Auto Nuke Minigame",
+    ["Auto Nuke Minigame"] = "Minigame Nuklir Otomatis",
     ["Auto Sell All Fish"] = "Menjual Semua Ikan Otomatis",
     ["Auto Sell Held Fish"] = "Menjual Ikan yang Dipegang Otomatis",
     ["Auto Treasure"] = "Mencari Harta Karun Otomatis",
