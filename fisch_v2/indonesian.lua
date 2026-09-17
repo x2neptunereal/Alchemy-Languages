@@ -15,7 +15,7 @@ return {
     ["Auto Claim Aquarium"] = "Klaim Otomatis Aquarium",
     ["Auto Collect Fischfest Items"] = "Mengumpulkan Barang Fischfest Otomatis",
     ["Auto Collect Shells"] = "Mengumpulkan Kerang Otomatis",
-    ["Auto Collect Star Crater"] = "Auto Collect Star Crater",
+    ["Auto Collect Star Crater"] = "Mengumpulkan Pembuat Bintang Otomatis",
     ["Auto Convert Shells"] = "Konversi Otomatis Kerang",
     ["Auto Delete Fish"] = "Menghapus Otomatis Ikan",
     ["Auto Enchant"] = "Enchant Otomatis",
