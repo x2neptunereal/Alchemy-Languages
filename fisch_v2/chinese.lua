@@ -15,7 +15,7 @@ return {
     ["Auto Claim Aquarium"] = "自动领取水族馆奖励",
     ["Auto Collect Fischfest Items"] = "自动收集Fischfest活动物品",
     ["Auto Collect Shells"] = "自动收集贝壳",
-    ["Auto Collect Star Crater"] = "Auto Collect Star Crater",
+    ["Auto Collect Star Crater"] = "自动收集星形陨石坑",
     ["Auto Convert Shells"] = "自动转换贝壳",
     ["Auto Delete Fish"] = "自动删除鱼类",
     ["Auto Enchant"] = "自动附魔",
