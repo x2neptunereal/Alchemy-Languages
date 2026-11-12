@@ -13,7 +13,7 @@ return {
     ["Auto Buy Selected Totems"] = "Автопокупка выбранных тотемов",
     ["Auto Change Bait"] = "Автосмена наживки",
     ["Auto Claim Aquarium"] = "Автосбор аквариума",
-    ["Auto Collect Crab Cage"] = "Auto Collect Crab Cage",
+    ["Auto Collect Crab Cage"] = "Автосбор клеток крабов",
     ["Auto Collect Fischfest Items"] = "Автосбор предметов Fischfest",
     ["Auto Collect Shells"] = "Автосбор ракушек",
     ["Auto Collect Star Crater"] = "Автосбор Звёздного кратера",
