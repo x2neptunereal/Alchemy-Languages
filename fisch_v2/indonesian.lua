@@ -13,7 +13,7 @@ return {
     ["Auto Buy Selected Totems"] = "Membeli Otomatis Totem yang Dipilih",
     ["Auto Change Bait"] = "Otomatis Mengganti Umpan",
     ["Auto Claim Aquarium"] = "Klaim Otomatis Aquarium",
-    ["Auto Collect Crab Cage"] = "Auto Collect Crab Cage",
+    ["Auto Collect Crab Cage"] = "Pengambilan Otomatis Sangkar Kepiting",
     ["Auto Collect Fischfest Items"] = "Mengumpulkan Barang Fischfest Otomatis",
     ["Auto Collect Shells"] = "Mengumpulkan Kerang Otomatis",
     ["Auto Collect Star Crater"] = "Mengumpulkan Pembuat Bintang Otomatis",
