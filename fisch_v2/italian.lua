@@ -13,7 +13,7 @@ return {
     ["Auto Buy Selected Totems"] = "Auto Compra Totem Sel.",
     ["Auto Change Bait"] = "Auto Cambia Esca",
     ["Auto Claim Aquarium"] = "Auto Riscatta Acquario",
-    ["Auto Collect Crab Cage"] = "Auto Collect Crab Cage",
+    ["Auto Collect Crab Cage"] = "Auto Colleziona Gabbia Per Granchi",
     ["Auto Collect Fischfest Items"] = "Auto Colleziona Oggetti Fischfest",
     ["Auto Collect Shells"] = "Auto Colleziona Conchiglie",
     ["Auto Collect Star Crater"] = "Auto Colleziona Cratere Stella",
