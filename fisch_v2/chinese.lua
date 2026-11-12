@@ -13,6 +13,7 @@ return {
     ["Auto Buy Selected Totems"] = "自动购买所选图腾",
     ["Auto Change Bait"] = "自动更换鱼饵",
     ["Auto Claim Aquarium"] = "自动领取水族馆奖励",
+    ["Auto Collect Crab Cage"] = "Auto Collect Crab Cage",
     ["Auto Collect Fischfest Items"] = "自动收集Fischfest活动物品",
     ["Auto Collect Shells"] = "自动收集贝壳",
     ["Auto Collect Star Crater"] = "自动收集星形陨石坑",
